@@ -1,0 +1,407 @@
+Strain Name,GenBank Accession,collection_date,Host,GenBank Host,country,length,lineage,variant
+Dak Ar D75505,EF457904,1999-01-01,Unknown,-N/A-,Senegal,10724,DENV-2,DENV-2 Genotype VI
+PM33974,EF105378,1981-01-01,Unknown,-N/A-,Guinea,10722,DENV-2,DENV-2 Genotype VI
+Reunion 191/04,DQ285559,2004-01-01,Human,Homo sapiens,Reunion,10717,DENV-1,DENV-1 Genotype V
+Dak Ar D20761,EF105385,1974-01-01,Unknown,-N/A-,Senegal,10724,DENV-2,DENV-2 Genotype VI
+IBH11208,EF105387,1966-01-01,Unknown,-N/A-,Nigeria,10709,DENV-2,DENV-2 Genotype VI
+Reunion 185/04,DQ285558,2004-01-01,Human,Homo sapiens,Reunion,10689,DENV-1,DENV-1 Genotype IV
+D1/H/IMTSSA/98/606,AF298808,,Unknown,-N/A-,Djibouti,10721,DENV-1,DENV-1 Genotype I
+Reunion 257/04,DQ285560,2004-01-01,Human,Homo sapiens,Reunion,10696,DENV-1,DENV-1 Genotype IV
+IBH11664,EF105388,1966-01-01,Unknown,-N/A-,Nigeria,10711,DENV-2,DENV-2 Genotype VI
+Seychelles 1480_04,DQ285561,2004-01-01,Human,Homo sapiens,Seychelles,10662,DENV-1,DENV-1 Genotype IV
+Dak Ar 141070,EF105390,1999-01-01,Unknown,-N/A-,Senegal,10717,DENV-2,DENV-2 Genotype VI
+IBH11234,EU003591,1966-08-18,Unknown,-N/A-,Nigeria,10501,DENV-2,DENV-2 Genotype VI
+Dak Ar 141069,EF105389,1999-01-01,Unknown,-N/A-,Senegal,10723,DENV-2,DENV-2 Genotype VI
+Comoros 04.329/93,DQ285562,1993-01-01,Human,Homo sapiens,Comoros,10721,DENV-1,DENV-1
+Dak HD 10674,EF105384,1970-01-01,Unknown,-N/A-,Senegal,10724,DENV-2,DENV-2 Genotype VI
+DENV-3/MZ/BID-V2418/1985,FJ882575,1985-01-01,Human,Homo sapiens,Mozambique,10663,DENV-3,DENV-3 Genotype III
+Reunion 281/04,EU282328,2004-05-01,Unknown,-N/A-,Reunion,1485,DENV-1,DENV-1 Genotype IV
+GA24-33a,JX080290,2010-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA_DENV2,JX080289,2007-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA3-18,JX080291,2010-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+SO/DB121/2011,KC848579,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-1,DENV-1 Genotype I
+SO/DB128/2011,KC848586,2011-01-01,Human,Homo sapiens,Somalia,1479,DENV-3,DENV-3 Genotype III
+SO/DB124/2011,KC848582,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-2,DENV-2
+SO/DB130/2011,KC848588,2011-01-01,Human,Homo sapiens,Somalia,1479,DENV-3,DENV-3 Genotype III
+SO/DB120/2011,KC848578,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-1,DENV-1 Genotype I
+SO/DB119/2011,KC848577,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-1,DENV-1 Genotype I
+SO/DB123/2011,KC848581,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-2,DENV-2
+SO/DB122/2011,KC848580,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-1,DENV-1 Genotype I
+SO/DB126/2011,KC848584,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-2,DENV-2
+SO/DB131/2011,KC848589,2011-01-01,Human,Homo sapiens,Somalia,1479,DENV-3,DENV-3 Genotype III
+SO/DB129/2011,KC848587,2011-01-01,Human,Homo sapiens,Somalia,1479,DENV-3,DENV-3 Genotype III
+SO/DB125/2011,KC848583,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-2,DENV-2
+SO/DB127/2011,KC848585,2011-01-01,Human,Homo sapiens,Somalia,1479,DENV-3,DENV-3 Genotype III
+SO/DB118/2011,KC848576,2011-01-01,Human,Homo sapiens,Somalia,1485,DENV-1,DENV-1 Genotype I
+Angola_2013,KF184975,2013-04-01,Human,Homo sapiens,Angola,10602,DENV-1,Unassigned
+GA28-7,JX080299,2010-01-01,Human,Homo sapiens,Gabon,935,DENV-3,DENV-3 Genotype III
+GA2_60,JX080297,2010-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA24_33b,JX080298,2010-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA1MC,JX080296,2009-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA63AG,JX080293,2009-01-01,Human,Homo sapiens,Gabon,472,DENV-1,Unassigned
+D2Gabon,JX080295,2007-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA9BE,JX080294,2008-01-01,Human,Homo sapiens,Gabon,758,DENV-2,DENV-2
+GA29-40,JX080292,2010-01-01,Human,Homo sapiens,Gabon,472,DENV-1,Unassigned
+Dakar HD 34460,KF907503,1953-01-01,Human,Homo sapiens,Senegal,10648,DENV-4,DENV-4 Genotype II
+AO/DB132/2013,KM277610,2013-01-01,Human,Homo sapiens,Angola,1485,DENV-1,Unassigned
+AO/DB136/2013,KM277614,2013-01-01,Human,Homo sapiens,Angola,1485,DENV-1,Unassigned
+AO/DB134/2013,KM277612,2013-01-01,Human,Homo sapiens,Angola,1485,DENV-1,Unassigned
+AO/DB135/2013,KM277613,2013-01-01,Human,Homo sapiens,Angola,1485,DENV-1,Unassigned
+Denv4_2014_Angola,AB908053,2014-01-14,Human,Homo sapiens,Angola,452,DENV-4,DENV-4 Genotype II
+AO/DB133/2013,KM277611,2013-01-01,Human,Homo sapiens,Angola,1485,DENV-1,Unassigned
+IL2_RPG_045/Dar es Salaam 2014,KT288898,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+IL2_SRH_001/Dar es Salaam 2014,KT288895,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+T2_AAH_002/Dar es Salaam 2014,KT288896,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+IL1_FN_033/Dar es Salaam 2014,KT288897,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+T1_MMB_012/Dar es Salaam 2014,KT288901,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+IL2_BSM_016/Dar es Salaam 2014,KT288900,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+D2_K2_RIJ_059/Dar es Salaam 2014,KT288902,2014-06-01,Human,Homo sapiens,Tanzania,1685,DENV-2,DENV-2 Genotype II
+IL2_FJK_030/Dar es Salaam 2014,KT288899,2014-06-01,Human,Homo sapiens,Tanzania,729,DENV-2,DENV-2 Genotype II
+SF729VI06,FJ502874,2005-01-01,Human,Homo sapiens,Madagascar,216,DENV-1,DENV-1 Genotype IV
+WI37VI05,DQ016643,,Human,Homo sapiens,Sudan,306,DENV-2,DENV-2 Genotype V
+Reunion 253/04,DQ285549,2004-01-01,Human,Homo sapiens,Reunion,1485,DENV-1,DENV-1 Genotype IV
+WI218VI05,FJ502918,2005-01-01,Human,Homo sapiens,Cameroon,219,DENV-2,Unassigned
+DAKAR A-1520,AF426111,,Human,Homo sapiens,Angola,1044,DENV-1,DENV-1 Genotype V
+CNM399VI07,FJ502863,2007-01-01,Human,Homo sapiens,Nigeria,216,DENV-1,DENV-1 Genotype V
+Reunion 265/04,DQ285553,2004-01-01,Human,Homo sapiens,Reunion,1485,DENV-1,DENV-1 Genotype IV
+Uganda 1993,AF410375,,Unknown,-N/A-,Uganda,1485,DENV-2,DENV-2
+CNM775VI06,FJ502943,2006-01-01,Human,Homo sapiens,Cameroon,220,DENV-3,DENV-3 Genotype III
+G119VI05,FJ502917,1999-01-01,Human,Homo sapiens,Djibouti,219,DENV-2,Unassigned
+CNM664VI06,FJ502864,2006-01-01,Human,Homo sapiens,Cameroon,216,DENV-1,Unassigned
+RIO H 36589,AF425610,,Human,Homo sapiens,Angola,1485,DENV-1,DENV-1 Genotype V
+Reunion 263/04,DQ285552,2004-01-01,Human,Homo sapiens,Reunion,1485,DENV-1,DENV-1 Genotype IV
+Dak HD 34 460,EU073983,,Unknown,-N/A-,Senegal,232,DENV-4,DENV-4 Genotype II
+CNM213VI07,FJ502975,2007-01-01,Human,Homo sapiens,Senegal,220,DENV-3,DENV-3 Genotype III
+D3Mozambique85,AY665402,,Unknown,-N/A-,Mozambique,1923,DENV-3,DENV-3 Genotype III
+Reunion 305/04,DQ285554,2004-01-01,Human,Homo sapiens,Reunion,1485,DENV-1,DENV-1 Genotype V
+WI1210VI04,DQ016641,,Human,Homo sapiens,Kenya,306,DENV-1,DENV-1 Genotype I
+IBH 28328,AF426124,,Human,Homo sapiens,Nigeria,1044,DENV-1,DENV-1
+CNM60VI05,DQ016638,,Human,Homo sapiens,Kenya,306,DENV-1,DENV-1 Genotype I
+IBH 28328,AF425625,,Human,Homo sapiens,Nigeria,1485,DENV-1,Unassigned
+DENV4CV-2,KU577449,2014-01-01,Mosquito,Aedes aegypti,Cabo Verde,223,DENV-4,DENV-4 Genotype II
+DENV4CV-1,KU577448,2014-01-01,Mosquito,Aedes aegypti,Cabo Verde,223,DENV-4,DENV-4 Genotype II
+DENV2CV-3,KU577447,2014-01-01,Mosquito,Aedes aegypti,Cabo Verde,307,DENV-2,DENV-2 Genotype III
+DENV2CV-2,KU577446,2014-01-01,Mosquito,Aedes aegypti,Cabo Verde,307,DENV-2,DENV-2 Genotype III
+DENV2CV-1,KU577445,2014-01-01,Mosquito,Aedes aegypti,Cabo Verde,307,DENV-2,DENV-2 Genotype III
+UNKNOWN-DQ285557,DQ285557,2004-01-01,Human,Homo sapiens,Seychelles,1485,DENV-1,DENV-1 Genotype IV
+D1/Madagascar/0602aTw,EU448412,2006-01-01,Unknown,-N/A-,Madagascar,1485,DENV-1,DENV-1 Genotype IV
+Reunion 261/04,DQ285551,2004-01-01,Human,Homo sapiens,Reunion,1485,DENV-1,DENV-1 Genotype IV
+CY 436 D1 606,EU073979,,Unknown,-N/A-,Djibouti,232,DENV-1,DENV-1 Genotype I
+F32.D2.05,EU005258,2005-01-01,Human,Homo sapiens,Ghana,1485,DENV-2,DENV-2
+F32.D2.05,EU005251,2005-01-01,Human,Homo sapiens,Ghana,454,DENV-2,DENV-2
+Djibouti_2012_14699,KT187295,2012-01-01,Unknown,-N/A-,Djibouti,1479,DENV-3,DENV-3 Genotype III
+Djibouti_2012_14091,KT187294,2012-01-01,Unknown,-N/A-,Djibouti,1479,DENV-3,DENV-3 Genotype III
+Djibouti_2011_13129,KT187293,2011-01-01,Unknown,-N/A-,Djibouti,1479,DENV-3,DENV-3 Genotype III
+Djibouti_2011_13126,KT187292,2011-01-01,Unknown,-N/A-,Djibouti,1479,DENV-3,DENV-3 Genotype III
+Madagascar_2010-558,KT187291,2010-01-01,Unknown,-N/A-,Madagascar,1479,DENV-3,DENV-3 Genotype III
+Madagascar_2010-557,KT187290,2010-01-01,Unknown,-N/A-,Madagascar,1479,DENV-3,DENV-3 Genotype III
+Comoros_2010-00373,KT187289,2010-01-01,Unknown,-N/A-,Comoros,1479,DENV-3,DENV-3 Genotype III
+Reunion_island_2012_14450,KT187288,2012-01-01,Unknown,-N/A-,Reunion,1479,DENV-3,DENV-3 Genotype III
+Reunion_Island_2012_14449,KT187287,2012-01-01,Unknown,-N/A-,Reunion,1479,DENV-3,DENV-3 Genotype III
+Reunion_Island_2012_14448,KT187286,2012-01-01,Unknown,-N/A-,Reunion,1479,DENV-3,DENV-3 Genotype III
+cape_verde_2009_09-022,KT187285,2009-01-01,Unknown,-N/A-,Cabo Verde,1479,DENV-3,DENV-3 Genotype III
+cape_verde_2008_08-040,KT187284,2008-01-01,Unknown,-N/A-,Cabo Verde,1479,DENV-3,DENV-3 Genotype III
+Togo_2009_09-998,KT187281,2009-01-01,Unknown,-N/A-,Togo,1479,DENV-3,DENV-3 Genotype III
+DENV3-3140,KU509282,2009-01-01,Human,Homo sapiens,Senegal,10568,DENV-3,DENV-3 Genotype III
+DENV1-2522,KU509258,2010-01-01,Human,Homo sapiens,Eritrea,10377,DENV-1,DENV-1 Genotype I
+DENV-2/TAN/Muhimbili/2014,KM892496,2014-02-01,Human,Homo sapiens,Tanzania,500,DENV-2,DENV-2 Genotype II
+DENV-2/TAN/IST/2014,KM892495,2014-02-01,Human,Homo sapiens,Tanzania,500,DENV-2,DENV-2 Genotype II
+DENV-2/TAN/Masaki/2014,KM892494,2014-02-01,Human,Homo sapiens,Tanzania,500,DENV-2,DENV-2 Genotype II
+DENV-2/TAN/IFM/2013,KM892493,2013-06-01,Human,Homo sapiens,Tanzania,500,DENV-2,DENV-2 Genotype II
+DENV2-6478,KU509307,2014-01-01,Human,Homo sapiens,Tanzania,1485,DENV-2,DENV-2 Genotype II
+D3/Hu/Tanzania/08/2010NIID,AB549332,2010-02-01,Unknown,-N/A-,Tanzania,1479,DENV-3,DENV-3 Genotype III
+Mombasa/2013/001,KT716076,,Human,Homo sapiens,Kenya,1485,DENV-2,DENV-2
+Mombasa/2013/002,KT716077,,Human,Homo sapiens,Kenya,1485,DENV-2,DENV-2
+Mombasa/2013/003,KT716078,,Human,Homo sapiens,Kenya,1485,DENV-2,DENV-2
+320413,KX812511,2013-04-01,Human,Homo sapiens; viremic patient,Kenya,513,DENV-3,DENV-3 Genotype III
+1320413,KX812509,2013-04-01,Human,Homo sapiens; viremic patient,Kenya,513,DENV-2,DENV-2
+40413,KX812510,2013-04-01,Human,Homo sapiens; viremic patient,Kenya,512,DENV-2,Unassigned
+790513,KX812500,2013-05-01,Human,Homo sapiens; viremic patient,Kenya,288,DENV-1,DENV-1 Genotype I
+770413,KX812501,2013-04-01,Human,Homo sapiens; viremic patient,Kenya,243,DENV-1,DENV-1 Genotype I
+711,KX812502,2011-07-01,Human,Homo sapiens; viremic patient,Kenya,259,DENV-3,DENV-3 Genotype III
+911,KX812503,2011-09-01,Human,Homo sapiens; viremic patient,Kenya,231,DENV-3,DENV-3 Genotype III
+30713,KX812504,2013-07-01,Human,Homo sapiens; viremic patient,Kenya,230,DENV-3,DENV-3 Genotype III
+280114,KX812505,2014-01-01,Human,Homo sapiens; viremic patient,Kenya,231,DENV-3,DENV-3 Genotype III
+2330513,KX812506,2013-05-01,Human,Homo sapiens; viremic patient,Kenya,245,DENV-1,DENV-1 Genotype I
+220713,KX812507,2013-07-01,Human,Homo sapiens; viremic patient,Kenya,512,DENV-2,DENV-2
+1290413,KX812508,2013-04-01,Human,Homo sapiens; viremic patient,Kenya,513,DENV-2,DENV-2
+D2_K2_RIJ_059/Dar es Salaam 2014,MG189962,2014-06-01,Human,Homo sapiens,Tanzania,10665,DENV-2,DENV-2 Genotype II
+FA0004/15/MZ/2015,KY815103,2015-01-01,Human,Homo sapiens,Mozambique,240,DENV-2,DENV-2 Genotype II
+FA0012/15/MZ/2015,KY815104,2015-01-01,Human,Homo sapiens,Mozambique,240,DENV-2,DENV-2 Genotype II
+FA0033/15/MZ/2015,KY815105,2015-01-01,Human,Homo sapiens,Mozambique,240,DENV-2,DENV-2 Genotype II
+DENV-2/TAN/KCMC/2014,KU886233,2014-06-01,Human,Homo sapiens,Tanzania,500,DENV-2,DENV-2 Genotype II
+Mal_002,MG779194,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_003,MG779195,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_007,MG779196,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_011,MG779197,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_012,MG779198,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_014,MG779199,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_016,MG779200,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_018,MG779201,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_020,MG779202,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Mal_028,MG779203,2017-01-01,Human,Homo sapiens,Kenya,10176,DENV-2,DENV-2
+Dakar_HD_34460,MF004387,1981-01-01,Human,Homo sapiens,Senegal,10601,DENV-4,DENV-4 Genotype II
+SD1,MF574722,,Human,Homo sapiens,Sudan,502,DENV-2,DENV-2
+SD2,MF574723,,Human,Homo sapiens,Sudan,502,DENV-2,DENV-2
+SD3,MF574724,,Human,Homo sapiens,Sudan,502,DENV-2,DENV-2
+SD4,MF574725,,Human,Homo sapiens,Sudan,502,DENV-2,DENV-2
+LEKMA/GH/2017,MG937762,2017-05-05,Human,Homo sapiens,Ghana,486,DENV-2,Unassigned
+LEKMA/GH/2017,MG937763,2017-05-05,Human,Homo sapiens,Ghana,442,DENV-2,Unassigned
+Gabon2012,MG877557,2012-01-01,Human,Homo sapiens,Gabon,10751,DENV-1,Unassigned
+DENV2/KLF/001/2014,MH456892,2014-10-17,Human,Homo sapiens,Kenya,10093,DENV-2,DENV-2
+DENV2/KLF/004/2014,MH456893,2014-11-25,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+DENV2/KLF/006/2014,MH456894,2014-06-20,Human,Homo sapiens,Kenya,8372,DENV-2,DENV-2
+DENV2/KLF/005/2014,MH456895,2014-07-04,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+DENV2/KLF/009/2014,MH456896,2014-06-20,Human,Homo sapiens,Kenya,4272,DENV-2,DENV-2
+DENV2/KLF/002/2014,MH456897,2014-07-09,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+DENV2/KLF/003/2014,MH456898,2014-06-23,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+DENV2/KLF/008/2014,MH456899,2014-06-11,Human,Homo sapiens,Kenya,7859,DENV-2,DENV-2
+DENV2/KLF/007/2014,MH456900,2014-07-07,Human,Homo sapiens,Kenya,2407,DENV-2,DENV-2
+DENV2/Hu/Cote d'Ivoire/HMIMV/2017,MG727535,,Human,Homo sapiens,Morocco,1485,DENV-2,DENV-2
+AO-1,MH460898,2018-01-18,Human,Homo sapiens; 48 yr. old male,Angola,9979,DENV-2,DENV-2
+EV-042,LC379220,2014-01-01,Human,Homo sapiens,Ghana,414,DENV-3,DENV-3 Genotype III
+EV-050,LC379221,2014-01-01,Human,Homo sapiens,Ghana,414,DENV-3,DENV-3 Genotype III
+EV-073,LC379222,2014-01-01,Human,Homo sapiens,Ghana,414,DENV-3,DENV-3 Genotype III
+EV-042,LC379223,2014-01-01,Human,Homo sapiens,Ghana,674,DENV-3,DENV-3 Genotype III
+EV-073,LC379224,2014-01-01,Human,Homo sapiens,Ghana,674,DENV-3,DENV-3 Genotype III
+LT.93,MH802053,2017-04-13,Human,Homo-sapiens,Cameroon,211,DENV-1,Unassigned
+LT.88,MH802054,2017-04-12,Human,Homo-sapiens,Cameroon,211,DENV-1,Unassigned
+LT.75,MH802055,2017-04-11,Human,Homo-sapiens,Cameroon,211,DENV-1,Unassigned
+LT.81,MH802056,2017-04-11,Human,Homo-sapiens,Cameroon,211,DENV-1,Unassigned
+LT.71,MH802057,2017-04-11,Human,Homo-sapiens,Cameroon,209,DENV-1,Unassigned
+RUJul,MN272404,2018-03-01,Human,Homo sapiens,Reunion,10724,DENV-2,DENV-2
+RU16417,MN272405,2016-05-07,Human,Homo sapiens,Seychelles,10724,DENV-2,DENV-2
+SH273755,MK940790,2015-12-01,Human,Homo sapiens,Senegal,245,DENV-1,DENV-1 Genotype III
+SH273756,MK940791,2015-12-01,Human,Homo sapiens,Senegal,245,DENV-1,DENV-1 Genotype III
+2019/BJ/9943,MN600714,2019-02-28,Human,Homo sapiens,Benin,10646,DENV-1,DENV-1
+SYMAV-02/Gabon/2016,LC379193,2016-05-15,Human,Homo sapiens,Gabon,10663,DENV-3,DENV-3 Genotype III
+SYMAV-03/Gabon/2016,LC379194,2016-05-20,Human,Homo sapiens,Gabon,10663,DENV-3,DENV-3 Genotype III
+SYMAV-07/Gabon/2016,LC379195,2016-07-14,Human,Homo sapiens,Gabon,10663,DENV-3,DENV-3 Genotype III
+SYMAV-09/Gabon/2016,LC379196,2016-07-22,Human,Homo sapiens,Gabon,10663,DENV-3,DENV-3 Genotype III
+SYMAV-17/Gabon/2017,LC379197,2017-04-15,Human,Homo sapiens,Gabon,10641,DENV-3,DENV-3 Genotype III
+SYMAV-01/Gabon/2016,LC379198,2016-05-01,Human,Homo sapiens,Gabon,1479,DENV-3,DENV-3 Genotype III
+SYMAV-04/Gabon/2016,LC379199,2016-06-17,Human,Homo sapiens,Gabon,1479,DENV-3,DENV-3 Genotype III
+SYMAV-06/Gabon/2016,LC379200,2016-07-05,Human,Homo sapiens,Gabon,1479,DENV-3,DENV-3 Genotype III
+SYMAV-08/Gabon/2016,LC379201,2016-07-15,Human,Homo sapiens,Gabon,1479,DENV-3,DENV-3 Genotype III
+SYMAV-10/Gabon/2016,LC379202,2016-08-08,Human,Homo sapiens,Gabon,1479,DENV-3,DENV-3 Genotype III
+Sudan -1,MT012479,2019-10-15,Human,Homo sapiens,Sudan,297,DENV-3,DENV-3 Genotype III
+AFI_MDH_243,MN335244,2017-05-29,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+AFI_MDH_240,MN335245,2017-05-22,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+AFI_MDH_244,MN335246,2017-06-07,Human,Homo sapiens,Kenya,10165,DENV-2,DENV-2
+AFI_MDH_232,MN335247,2017-04-10,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+CFA193,MT076932,2014-07-01,Human,Homo sapiens,Kenya,10735,DENV-1,DENV-1 Genotype II
+CFA201,MT076933,2014-07-01,Human,Homo sapiens,Kenya,10735,DENV-1,DENV-1 Genotype II
+CFA346,MT076934,2015-03-01,Human,Homo sapiens,Kenya,10735,DENV-1,DENV-1 Genotype II
+CFA348,MT076935,2015-03-01,Human,Homo sapiens,Kenya,10735,DENV-1,DENV-1 Genotype II
+MFA1021,MT076936,2015-12-01,Human,Homo sapiens,Kenya,3402,DENV-1,DENV-1 Genotype II
+CFA298,MT076937,2015-01-01,Human,Homo sapiens,Kenya,10723,DENV-2,DENV-2 Genotype IV
+CFA409,MT076938,2015-06-01,Human,Homo sapiens,Kenya,783,DENV-2,DENV-2 Genotype IV
+KFA0302,MT076939,2015-05-01,Human,Homo sapiens,Kenya,791,DENV-2,DENV-2 Genotype IV
+KFA319,MT076940,2015-06-01,Human,Homo sapiens,Kenya,872,DENV-2,DENV-2 Genotype IV
+KFA345,MT076941,2015-07-01,Human,Homo sapiens,Kenya,925,DENV-2,DENV-2 Genotype IV
+KFA540,MT076942,2016-01-01,Human,Homo sapiens,Kenya,908,DENV-2,DENV-2 Genotype IV
+KFA566,MT076943,2016-02-01,Human,Homo sapiens,Kenya,842,DENV-2,DENV-2 Genotype IV
+MFA1060,MT076944,2016-01-01,Human,Homo sapiens,Kenya,926,DENV-2,DENV-2 Genotype IV
+RFA552,MT076945,2016-01-01,Human,Homo sapiens,Kenya,924,DENV-2,DENV-2 Genotype IV
+UFA1745,MT076946,2017-06-01,Human,Homo sapiens,Kenya,941,DENV-2,DENV-2
+CFA337,MT076947,2015-03-01,Human,Homo sapiens,Kenya,1528,DENV-3,DENV-3
+CFA379,MT076948,2015-05-01,Human,Homo sapiens,Kenya,10596,DENV-3,DENV-3
+RFA411,MT076949,2015-06-01,Human,Homo sapiens,Kenya,1528,DENV-3,DENV-3
+RFA440,MT076950,2015-06-01,Human,Homo sapiens,Kenya,1550,DENV-3,DENV-3
+KFA302,MT076951,2015-05-01,Human,Homo sapiens,Kenya,1588,DENV-3,DENV-3
+KFA339,MT076952,2015-06-01,Human,Homo sapiens,Kenya,1490,DENV-3,DENV-3
+KFA340,MT076953,2015-06-01,Human,Homo sapiens,Kenya,1564,DENV-3,DENV-3
+KFA341,MT076954,2015-06-01,Human,Homo sapiens,Kenya,1567,DENV-3,DENV-3
+KFA236,MT076955,2015-02-01,Human,Homo sapiens,Kenya,10648,DENV-4,DENV-4 Genotype II
+KFA567,MT076956,2016-02-01,Human,Homo sapiens,Kenya,755,DENV-4,DENV-4 Genotype II
+KFA574,MT076957,2016-02-01,Human,Homo sapiens,Kenya,1295,DENV-4,DENV-4 Genotype II
+KFA578,MT076958,2016-03-01,Human,Homo sapiens,Kenya,1306,DENV-4,DENV-4 Genotype II
+KFA762,MT076959,2016-09-01,Human,Homo sapiens,Kenya,1287,DENV-4,DENV-4 Genotype II
+MFA1034,MT076960,2015-12-01,Human,Homo sapiens,Kenya,996,DENV-4,DENV-4 Genotype II
+MFA1046,MT076961,2015-12-01,Human,Homo sapiens,Kenya,1275,DENV-4,DENV-4 Genotype II
+RFA538,MT076962,2016-01-01,Human,Homo sapiens,Kenya,1287,DENV-4,DENV-4 Genotype II
+172_4_13,MN577551,2013-04-01,Human,Homo sapiens,Kenya,9996,DENV-2,DENV-2
+004_2_14,MN577552,2014-02-01,Human,Homo sapiens,Kenya,9996,DENV-2,DENV-2
+036_6_17,MN577553,2017-06-01,Human,Homo sapiens,Kenya,10266,DENV-2,DENV-2
+040_6_17,MN577554,2017-06-01,Human,Homo sapiens,Kenya,10266,DENV-2,DENV-2
+009_7_17,MN577555,2017-07-01,Human,Homo sapiens,Kenya,10247,DENV-2,DENV-2
+010_7_17,MN577556,2017-07-01,Human,Homo sapiens,Kenya,10290,DENV-2,DENV-2
+011_7_17,MN577557,2017-07-01,Human,Homo sapiens,Kenya,10290,DENV-2,DENV-2
+017_7_17,MN577558,2017-07-01,Human,Homo sapiens,Kenya,10469,DENV-2,DENV-2
+088_4_13,MN577559,2013-04-01,Human,Homo sapiens,Kenya,10702,DENV-2,DENV-2
+052_5_13,MN577560,2013-05-01,Human,Homo sapiens,Kenya,10715,DENV-2,DENV-2
+236_5_13,MN577561,2013-05-01,Human,Homo sapiens,Kenya,10715,DENV-2,DENV-2
+237_5_13,MN577562,2013-05-01,Human,Homo sapiens,Kenya,10716,DENV-2,DENV-2
+065_5_13,MN577563,2013-05-01,Human,Homo sapiens,Kenya,10280,DENV-2,DENV-2
+045_6_14,MN577564,2014-06-01,Human,Homo sapiens,Kenya,10276,DENV-2,DENV-2
+020_1_14,MN577565,2014-01-01,Human,Homo sapiens,Kenya,9996,DENV-2,DENV-2
+2017/MR/CNR46460,MT980927,2017-11-30,Human,Homo sapiens,Mauritania,10668,DENV-2,DENV-2
+2018/SN/CNR49422,MT981011,2018-10-15,Human,Homo sapiens,Senegal,10669,DENV-2,DENV-2
+2018/MR/CNR50012,MT981085,2018-12-13,Human,Homo sapiens,Mauritania,10668,DENV-2,DENV-2
+2019/SN/CNR50154,MT981148,2019-01-04,Human,Homo sapiens,Senegal,10668,DENV-2,DENV-2
+2014/MR/B860,MT981492,2014-11-01,Human,Homo sapiens,Mauritania,1665,DENV-2,DENV-2
+2014/MR/B868,MT981491,2014-11-01,Human,Homo sapiens,Mauritania,1666,DENV-2,DENV-2
+2014/MR/B854,MT981494,2014-11-01,Human,Homo sapiens,Mauritania,1665,DENV-2,DENV-2
+2014/MR/B870,MT981511,2014-11-01,Human,Homo sapiens,Mauritania,1665,DENV-2,DENV-2
+2014/MR/B843,MT981512,2014-11-01,Human,Homo sapiens,Mauritania,1665,DENV-2,DENV-2
+2014/MR/B864,MT981513,2014-11-01,Human,Homo sapiens,Mauritania,1680,DENV-2,DENV-2
+2014/MR/B862,MT981514,2014-11-01,Human,Homo sapiens,Mauritania,1667,DENV-2,DENV-2
+2017/ML/CNR46292,MT982917,2017-11-08,Human,Homo sapiens,Mali,1668,DENV-2,DENV-2
+2019/TG/CNR51609,MT982918,2019-06-30,Human,Homo sapiens,Togo,1672,DENV-2,DENV-2
+2016/BJ/CNR37671,MT982919,2016-05-19,Human,Homo sapiens,Benin,1672,DENV-2,DENV-2
+2A,MK045280,2018-10-08,Human,Homo sapiens,Nigeria,346,NaN,NaN
+4A,MK045281,2018-10-08,Human,Homo sapiens,Nigeria,458,NaN,NaN
+9A,MK045282,2018-10-08,Human,Homo sapiens,Nigeria,344,NaN,NaN
+14B,MK045283,2018-10-08,Human,Homo sapiens,Nigeria,271,NaN,NaN
+P9,MK045284,2018-10-08,Human,Homo sapiens,Nigeria,555,NaN,NaN
+P11,MK045285,2018-10-08,Human,Homo sapiens,Nigeria,271,NaN,NaN
+P12,MK045286,2018-10-08,Human,Homo sapiens,Nigeria,630,NaN,NaN
+2016/CG/CNR38640,MW243006,2016-06-19,Human,Homo sapiens,Republic of the Congo,10568,DENV-1,Unassigned
+2019/SN/CNR52748,MW243062,2019-09-18,Human,Homo sapiens,Senegal,10646,DENV-1,DENV-1
+2015/MR/CNR30078,MW243063,2015-10-22,Human,Homo sapiens,Mauritania,10646,DENV-1,DENV-1
+SHC0255 / DENV-2 / 2018,MW288024,2018-10-01,Human,Homo sapiens,Senegal,10659,DENV-2,DENV-2
+SHC0271 / DENV-3 / 2018,MW288025,2018-10-01,Human,Homo sapiens,Senegal,10515,DENV-3,DENV-3 Genotype III
+SHC0406 / DENV-3 / 2018,MW288026,2018-10-01,Human,Homo sapiens,Senegal,10525,DENV-3,DENV-3 Genotype III
+SHC0411 / DENV-3 / 2018,MW288027,2018-10-01,Human,Homo sapiens,Senegal,10655,DENV-3,DENV-3 Genotype III
+SHC0455 / DENV-3 / 2018,MW288028,2018-10-01,Human,Homo sapiens,Senegal,10680,DENV-3,DENV-3 Genotype III
+SHC0459 / DENV-2 / 2018,MW288029,2018-10-01,Human,Homo sapiens,Senegal,10640,DENV-2,DENV-2
+SHC0479 / DENV-2 / 2018,MW288030,2018-10-01,Human,Homo sapiens,Senegal,10641,DENV-2,DENV-2
+SHC0506 / DENV-3 / 2018,MW288031,2018-11-01,Human,Homo sapiens,Senegal,10680,DENV-3,DENV-3 Genotype III
+SHC0513 / DENV-1 / 2018,MW288032,2018-11-01,Human,Homo sapiens,Senegal,10693,DENV-1,DENV-1
+SHC0517 / DENV-3 / 2018,MW288033,2018-11-01,Human,Homo sapiens,Senegal,10650,DENV-3,DENV-3 Genotype III
+SHC0518 / DENV-2 / 2018,MW288034,2018-11-01,Human,Homo sapiens,Senegal,10551,DENV-2,DENV-2
+SHC0520 / DENV-3 / 2018,MW288035,2018-11-01,Human,Homo sapiens,Senegal,10641,DENV-3,DENV-3 Genotype III
+SHC0521 / DENV-1 / 2018,MW288036,2018-11-01,Human,Homo sapiens,Senegal,10683,DENV-1,DENV-1
+SHC0522 / DENV-3 / 2018,MW288037,2018-11-01,Human,Homo sapiens,Senegal,10663,DENV-3,DENV-3 Genotype III
+SHC0531 / DENV-3 / 2018,MW288038,2018-11-01,Human,Homo sapiens,Senegal,10639,DENV-3,DENV-3 Genotype III
+SHC0539 / DENV-3 / 2018,MW288039,2018-11-01,Human,Homo sapiens,Senegal,10662,DENV-3,DENV-3 Genotype III
+SHC0543 / DENV-3 / 2018,MW288040,2018-11-01,Human,Homo sapiens,Senegal,10650,DENV-3,DENV-3 Genotype III
+D12,MW332260,2019-02-03,Human,Homo sapiens,Nigeria,990,DENV-2,DENV-2 Genotype V
+D10,MW332572,2019-02-03,Human,Homo sapiens,Nigeria,1037,DENV-2,DENV-2 Genotype V
+D1,MW341537,2019-08-01,Human,Homo sapiens,Nigeria,1035,DENV-2,DENV-2 Genotype V
+D2,MW341538,2019-08-01,Human,Homo sapiens,Nigeria,990,DENV-2,DENV-2 Genotype V
+D3,MW341539,2019-08-01,Human,Homo sapiens,Nigeria,965,DENV-2,DENV-2 Genotype V
+D5,MW341540,2019-08-01,Human,Homo sapiens,Nigeria,1036,DENV-2,DENV-2 Genotype V
+D6,MW341541,2019-08-01,Human,Homo sapiens,Nigeria,1045,DENV-2,DENV-2 Genotype V
+D7,MW341542,2019-08-01,Human,Homo sapiens,Nigeria,1042,DENV-2,DENV-2 Genotype V
+D10,MW341543,2019-08-01,Human,Homo sapiens,Nigeria,1037,DENV-2,DENV-2 Genotype V
+D11,MW341544,2019-08-01,Human,Homo sapiens,Nigeria,1045,DENV-2,DENV-2 Genotype V
+D12,MW341545,2019-08-01,Human,Homo sapiens,Nigeria,1045,DENV-2,DENV-2 Genotype V
+D13,MW341546,2019-08-01,Human,Homo sapiens,Nigeria,1045,DENV-2,DENV-2 Genotype V
+D14,MW341547,2019-08-01,Human,Homo sapiens,Nigeria,1045,DENV-2,DENV-2 Genotype V
+Sak1Ng,MT012480,2019-09-25,Human,Homo sapiens,Nigeria,1025,DENV-2,DENV-2
+85,MW481670,2019-02-15,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+182,MW481671,2018-07-09,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U75169_P1,MW481672,2018-05-13,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U73980_P2,MW481673,2018-04-22,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+P07571_P3,MW481674,2018-04-16,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+A25665_P7,MW481675,2018-03-12,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/17_P23,MW481676,2018-04-04,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/21_P27,MW481677,2018-03-31,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/23_P29,MW481678,2018-03-31,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/28_P32,MW481679,2018-04-07,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U74826_P4,MW481680,2018-05-07,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U74058_P5,MW481681,2018-04-24,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U74061_P6,MW481682,2018-04-24,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+P07656_P10,MW481683,2018-04-23,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/16_P22,MW481684,2018-03-31,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/29_P33,MW481685,2018-04-07,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/47_P49,MW481686,2018-04-17,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/88_P54,MW481687,2018-05-14,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/46_P48,MW481688,2018-04-17,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/91_P55,MW481689,2018-05-15,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+D/18/20_P26,MW481690,2018-03-31,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U75168_P15,MW481691,2018-05-13,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U76123_P58,MW481692,2018-06-01,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+U75528_P140,MW481693,2018-05-20,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+A27500_P138,MW481694,2018-05-17,Human,Homo sapiens,Angola,9980,DENV-2,DENV-2
+509 Mwatate,MK473383,2016-06-24,Human,Homo sapiens,Kenya,1646,DENV-2,DENV-2
+2016_c96_Wundanyi,MK473384,2016-05-04,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+2016_85A_Wundanyi,MK473385,2016-05-10,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+222 Voi,MK473386,2016-05-04,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+DENV-1/TAN/DAR-S1/2019,MT835384,2019-03-01,Human,Homo sapiens,Tanzania,482,DENV-1,Unassigned
+DENV-1/TAN/DAR-S2/2019,MT835385,2019-03-01,Human,Homo sapiens,Tanzania,482,DENV-1,Unassigned
+DENV-1/TAN/DAR-S3/2019,MT835386,2019-03-01,Human,Homo sapiens,Tanzania,482,DENV-1,Unassigned
+SENDAK-HD-10674,MW946564,1970-01-01,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2 Genotype VI
+Dengue virus,MT582502,2019-09-25,Human,Homo sapiens,Nigeria,1271,DENV-2,DENV-2
+Dengue virus,MT583832,2019-09-25,Human,Homo sapiens,Nigeria,1250,DENV-2,DENV-2
+Kenya/MTW-4167/2019,MZ544494,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-361/2019,MZ544495,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-34748/2019,MZ544496,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-344/2019,MZ544497,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-419/2019,MZ544498,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-338/2019,MZ544499,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-34985/2019,MZ544500,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-339/2019,MZ544501,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-348/2019,MZ544502,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype III
+Kenya/MTW-362/2019,MZ544503,2019-03-01,Human,Homo sapiens,Kenya,1440,DENV-3,DENV-3 Genotype III
+Kenya/MTW-4157/2019,MZ544504,2019-03-01,Human,Homo sapiens,Kenya,1467,DENV-3,DENV-3 Genotype III
+Kenya/MTW-337/2019,MZ544505,2019-03-01,Human,Homo sapiens,Kenya,1437,DENV-3,DENV-3 Genotype III
+Kenya/MTW-364/2019,MZ544506,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3 Genotype V
+Kenya/MTW-3158/2019,MZ544507,2019-03-01,Human,Homo sapiens,Kenya,1479,DENV-3,DENV-3
+Kenya/MTW-355/2019,MZ544585,2019-03-01,Human,Homo sapiens,Kenya,10173,DENV-3,DENV-3 Genotype III
+Kenya/MTW-359/2019,MZ544586,2019-03-01,Human,Homo sapiens,Kenya,10173,DENV-3,DENV-3 Genotype III
+Kenya/MTW-4167/2019,MZ544587,2019-03-01,Human,Homo sapiens,Kenya,10173,DENV-3,DENV-3 Genotype III
+Kenya/MTW-341/2019,MZ544588,2019-03-01,Human,Homo sapiens,Kenya,10173,DENV-3,DENV-3 Genotype III
+2018/MRT,OK384579,2018-01-01,Mosquito,mosquito,Mauritania,5055,DENV-2,DENV-2
+2018/MRT,OK384856,2018-01-01,Mosquito,mosquito,Mauritania,526,DENV-2,Unassigned
+Dengue_Douala_isolate_BN21,MW979757,2020-07-23,Human,acute febrile human,Cameroon,957,DENV-1,Unassigned
+Dengue_Douala_isolate_NB12,MW979758,2020-07-27,Human,acute febrile human,Cameroon,1315,DENV-2,DENV-2
+Dengue_Douala_isolate_NB32,MW979759,2020-07-28,Human,acute febrile human,Cameroon,1352,DENV-2,DENV-2
+Dengue_Douala_isolate_NB80,MW979760,2020-08-31,Human,acute febrile human,Cameroon,1393,DENV-2,DENV-2
+Dengue_Douala_isolate_BP08,MW979761,2020-07-27,Human,acute febrile human,Cameroon,1777,DENV-3,DENV-3 Genotype III
+Dengue_Douala_isolate_NB03,MW979762,2020-09-14,Human,acute febrile human,Cameroon,1063,DENV-3,DENV-3 Genotype III
+Dengue_Douala_isolate_NB20,MW979763,2020-07-27,Human,acute febrile human,Cameroon,2092,DENV-3,DENV-3 Genotype III
+Dengue_Douala_isolate_BN47,MW979764,2020-09-11,Human,acute febrile human,Cameroon,2055,DENV-3,DENV-3 Genotype III
+Dengue_Douala_isolate_NB78,MW979765,2020-08-26,Human,acute febrile human,Cameroon,1615,DENV-3,DENV-3 Genotype III
+DENV-3/TAN/Mikumi/2020,MW133786,2020-01-01,Mosquito,Aedes aegypti,Tanzania,511,DENV-3,DENV-3 Genotype III
+KAJP2_DENV1_Gambia_Western.Africa_2010,MZ857203,2010-01-01,Human,Homo sapiens,Gambia,10179,DENV-1,DENV-1 Genotype I
+KAJP3_DENV3_Kenya_Eastern.Africa_2011,MZ857204,2011-01-01,Human,Homo sapiens,Kenya,10171,DENV-3,DENV-3 Genotype III
+KAJP5_DENV1_Angola_Central.Africa_2013,MZ857205,2013-01-01,Human,Homo sapiens,Angola,10179,DENV-1,Unassigned
+KAJP7_DENV1_Kenya_Eastern.Africa_2013,MZ857206,2013-01-01,Human,Homo sapiens,Kenya,10179,DENV-1,DENV-1 Genotype I
+KAJP8_DENV2_Kenya_Eastern.Africa_2014-07-07,MZ857207,2014-07-07,Human,Homo sapiens,Kenya,2407,DENV-2,DENV-2
+KAJP9_DENV2_Kenya_Eastern.Africa_2013,MZ857208,2013-01-01,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2 Genotype II
+KAJP10_DENV2_Kenya_Eastern.Africa_2013,MZ857209,2013-01-01,Human,Homo sapiens,Kenya,10173,DENV-2,DENV-2
+KAJP11_DENV2_Tanzania_Eastern.Africa_2014,MZ857210,2014-01-01,Human,Homo sapiens,Tanzania,10173,DENV-2,DENV-2 Genotype II
+KAJP12_DENV2_Mocambique_Eastern.Africa_2014,MZ857211,2014-01-01,Human,Homo sapiens,Mozambique,10173,DENV-2,DENV-2 Genotype II
+KAJP13_DENV2_Tanzania_Eastern.Africa_2014,MZ857212,2014-01-01,Human,Homo sapiens,Tanzania,10173,DENV-2,DENV-2 Genotype II
+KAJP14_DENV2_Tanzania_Eastern.Africa_2014-06,MZ857213,2014-06-01,Human,Homo sapiens,Tanzania,10173,DENV-2,DENV-2 Genotype II
+KAJP15_DENV2_Tanzania_Eastern.Africa_2014,MZ857214,2014-01-01,Human,Homo sapiens,Tanzania,10173,DENV-2,DENV-2 Genotype II
+KAJP16_DENV2_Somalia_Eastern.Africa_2015,MZ857215,2015-01-01,Human,Homo sapiens,Somalia,10173,DENV-2,DENV-2 Genotype II
+KAJP17_DENV1_Eritrea_Eastern.Africa_2015,MZ857216,2015-01-01,Human,Homo sapiens,Eritrea,10179,DENV-1,DENV-1
+KAJP21_DENV2_Eritrea_Eastern.Africa_2017,MZ857218,2017-01-01,Human,Homo sapiens,Eritrea,10173,DENV-2,DENV-2
+KAJP22_DENV2_Somalia_Eastern.Africa_1996,MZ857219,1996-01-01,Human,Homo sapiens,Somalia,10173,DENV-2,DENV-2
+KAJP24_DENV2_Uganda_Eastern.Africa_2017,MZ857221,2017-01-01,Human,Homo sapiens,Uganda,10173,DENV-2,DENV-2
+KAJP25_DENV2_Djibouti_Eastern.Africa_2007,MZ857222,2007-01-01,Human,Homo sapiens,Djibouti,10173,DENV-2,DENV-2
+KAJP18_DENV1_Kenya_Eastern.Africa_2016,OK040059,2016-01-01,Human,Homo sapiens,Kenya,10161,DENV-1,DENV-1
+KAJP4_DENV1_Somalia_Eastern.Africa_2011,OK040060,2011-01-01,Human,Homo sapiens,Somalia,10173,DENV-1,DENV-1 Genotype I
+F227/LEKMA/GH/2017,LC666718,2017-01-01,Human,Homo sapiens,Ghana,10724,DENV-2,DENV-2
+F299/LEKMA/GH/2017,LC666719,2017-01-01,Human,Homo sapiens,Ghana,10724,DENV-2,DENV-2
+HCBD214,MZ520905,2014-04-10,Human,Homo sapiens,Tanzania,1470,DENV-2,DENV-2 Genotype II
+DENV1-5_RIO_H_36589,OL452067,1988-01-01,Human,Homo sapiens,Angola,10705,DENV-1,DENV-1 Genotype V
+DENV2-1_DAK_HD_76395,OK605757,1990-01-01,Human,Homo sapiens,Senegal,10724,DENV-2,DENV-2 Genotype VI
+DENV3-5_S_162,OK605766,1993-01-01,Human,Homo sapiens,Somalia,10707,DENV-3,DENV-3 Genotype III
+DENV4-3_DAK_H_38550,OK605769,1983-01-01,Human,Homo sapiens,Senegal,10651,DENV-4,DENV-4 Genotype I
+DSG2020_345,OM317565,2020-06-24,Human,Homo sapiens,Cameroon,10630,DENV-2,DENV-2
+DSG2020_061,OM317566,2020-08-02,Human,Homo sapiens,Cameroon,10380,DENV-2,DENV-2
+DENV-2,OM679998,2016-01-10,Human,Homo sapiens,Ethiopia,552,DENV-2,DENV-2
+NG/DENV1/2020,LC702703,2020-09-25,Human,Homo sapiens,Nigeria,109,NaN,NaN
+PREDICT_CMAH80161,MT125053,2018-05-30,Human,Homo sapiens,Cameroon,232,DENV-1,Unassigned
+PREDICT_CMAH81157,MT125054,2018-08-20,Human,Homo sapiens,Cameroon,232,DENV-1,Unassigned
+19XN14641_D2_NER,ON907580,2019-06-15,Human,Homo sapiens,Niger,10570,DENV-2,DENV-2
+19XN14641,ON908223,2019-06-15,Human,Homo sapiens,Niger,10542,DENV-2,DENV-2
+19XN27399,ON908232,2019-11-09,Human,Homo sapiens,Ethiopia,10608,DENV-3,DENV-3 Genotype III
+P78,ON377332,2021-07-07,Mosquito,Aedes aegypti,Benin,174,DENV-3,DENV-3 Genotype III
+19XN14641_D2_NER,ON885286,2019-06-15,Human,Homo sapiens,Niger,10570,DENV-2,DENV-2
+19XN27399F_D3_ETH,ON890788,2019-11-09,Human,Homo sapiens,Ethiopia,10656,DENV-3,DENV-3 Genotype III
+310395,ON231304,2018-10-26,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310402,ON231306,2018-10-28,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310403,ON231307,2018-10-28,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310405,ON231308,2018-10-28,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310411,ON231309,2018-10-28,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310393,ON231310,2018-10-31,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310605,ON231311,2018-11-09,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310550,ON231312,2018-11-08,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+310621,ON231313,2018-11-09,Human,Homo sapiens,Senegal,10176,DENV-2,DENV-2
+SYMAV-H0983,LC707382,2021-06-30,Human,Homo sapiens,Gabon,10670,DENV-1,Unassigned
+SYMAV-H0408,LC707378,2021-03-10,Human,Homo sapiens,Gabon,1485,DENV-1,Unassigned
