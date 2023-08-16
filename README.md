@@ -6,8 +6,8 @@ This repository is dedicated for the genomic dashboard template
 
 ## How to install:
 1. Make sure you have Docker installed. For more information access: https://docs.docker.com/engine/install/
-2. Build the image: `sudo docker build -t climade-dashboard .`
-3. Run the Docker container: `sudo docker run -p 8511:8511 --name climade-dashboard -d climade-dashboard .` 
+2. Build the image: `sudo docker build -t genomic-dashboard .`
+3. Run the Docker container: `sudo docker run -p 8511:8511 --name genomic-dashboard -d genomic-dashboard .` 
 4. You can view your Dashboard in your browser URL: http://0.0.0.0:8511
 
 ## Data

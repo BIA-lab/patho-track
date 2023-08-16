@@ -4,7 +4,7 @@ from config import *
 from utils.functions import *
 
 st.set_page_config(
-        page_title="CLIMADE AFRICA DASHBOARD",
+        page_title="GENOMIC DASHBOARD",
         layout="wide",
         initial_sidebar_state="expanded",
         page_icon="img/cropped-ceri_branco-01-150x150.png"
@@ -13,6 +13,6 @@ st.set_page_config(
 st.markdown(css_changes, unsafe_allow_html=True)
 remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
-st.write("#  Welcome to CLIMADE AFRICA DASHBOARD!")
+st.write("#  Welcome to the GENOMIC DASHBOARD!")
 
-st.sidebar.success("Select an arbovirus above.")
+st.sidebar.success("Select a pathogen above.")

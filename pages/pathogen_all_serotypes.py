@@ -1,5 +1,5 @@
 from config import *
-from source.pages import sidebar_dengue_all_serotypes as sd
+from source.pages import sidebar_pathogen_all_serotypes as sd
 from source.pages.header import *
 from source.graphs.africa_map import *
 from source.graphs.variants_proportion import variants_bar_plot
@@ -9,7 +9,7 @@ from source.pages.tables import variant_summary_table as vst
 
 def main():
     st.set_page_config(
-        page_title="Climade Africa Dashboard",
+        page_title="Genomic Dashboard Template",
         layout="wide",
         initial_sidebar_state="expanded",
         page_icon="img/cropped-ceri_branco-01-150x150.png"
@@ -19,7 +19,7 @@ def main():
     remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
     ## Getting the data
-    df_africa = load_data('data/dengue/metadata-all-serotypes.csv')
+    df_africa = load_data('data/dengue/metadata-all-serotypes.csv') # change the datasat here
 
     ##### CHECK LAST UPDATE #####
     with open('last_update.txt', 'r') as f:
@@ -27,7 +27,7 @@ def main():
     # last_update = datetime.today().strftime("%Y-%m-%d")
 
     ## Add sidebar to the app
-    st.sidebar.title("CLIMADE AFRICA - DENGUE")
+    st.sidebar.title("[PROJECT TITLE] - [PATHOGEN NAME]")
     st.sidebar.subheader("Last update: %s" % last_update)
 
     # Sidebar filter data

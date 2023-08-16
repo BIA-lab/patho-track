@@ -28,17 +28,6 @@ def map_data(df):
     df_map = df_map[
         ['date_2weeks', 'country', 'variant', 'sovereignt', 'Count', 'sov_a3']]
 
-    # filling missing country codes
-    # df_map['sov_a3'] = df_map['sov_a3'].astype(str)
-    # temp_codes = []
-    # for index, row in df_map.iterrows():
-    #     if row['sov_a3'] == 'nan':
-    #         temp_codes.append(missing_country_codes[row['country']])
-    #     else:
-    #         temp_codes.append(row['sov_a3'])
-    # df_map['sov_a3'] = temp_codes
-    # TODO: write test to check if doesn't have any empty value in sov_a3 column
-
     df_map['date_2weeks'] = pd.to_datetime(df_map['date_2weeks'], errors='coerce', format='%Y-%m-%d', yearfirst=True)
     initial_date = df_map['date_2weeks'].min()
     initial_date = initial_date.strftime('%Y-%m-%d')
