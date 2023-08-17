@@ -24,4 +24,4 @@ vocs_color_pallet = {'Unassigned': 'Greys', 'DENV-1': 'YlOrBr', 'DENV-2': 'Orang
 
 
 ##### CLIMADE dicts ########
-dengue_categories = {"Unassigned", "DENV-1", "DENV-2", "DENV-3", "DENV-4"}
+dengue_categories = {}
