@@ -1,6 +1,6 @@
 from config import *
 from source.pages import sidebar_pathogen_1 as sd
-from source.pages.header import *
+from source.pages.header_pathogen_1 import *
 from source.graphs.africa_map import *
 from source.graphs.categories_proportion import categories_bar_plot
 from source.graphs.countries_sequences import countries_with_sequences_chart, countries_with_sequences_chart_one_category
