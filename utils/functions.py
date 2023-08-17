@@ -8,22 +8,13 @@ import streamlit as st
 from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim
 
-from utils.dicts import concerned_variants
+from utils.dicts import concerned_categories
 
 
 @st.cache_data
 def load_data(file):
     df = pd.read_csv(file)
     return df
-
-def lineages_to_concerned_variants(df, variant_column):
-    var = []
-    for index, row in df.iterrows():
-        if (row[variant_column] in concerned_variants) or (row[variant_column].startswith('Omicron')):
-            var.append(row[variant_column])
-        else:
-            var.append('Other Lineages')
-    return var
 
 
 # Function to find the coordinate of a given code (city, alpha code or country) - coordinate results are related to the capital of the country

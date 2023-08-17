@@ -4,7 +4,7 @@ from utils.functions import get_img_with_href
 
 
 def main_title(display_countries):
-    st.markdown("<h1 style='text-align: center; color: #195CA9;'>[PATHOGEN_NAME] DASHBOARD</h1>",
+    st.markdown("<h1 style='text-align: center; color: #195CA9;'>PATHOGEN 1 DASHBOARD</h1>",
                 unsafe_allow_html=True)
     # logo = get_img_with_href('img/gisaid_logo.png','https://www.gisaid.org/')
     #

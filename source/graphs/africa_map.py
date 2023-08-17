@@ -26,19 +26,19 @@ def map_data(df):
 
     df_map = gdf.merge(df, left_on="sovereignt", right_on="country", how="outer")
     df_map = df_map[
-        ['date_2weeks', 'country', 'variant', 'sovereignt', 'Count', 'sov_a3']]
+        ['date', 'country', 'category_2', 'sovereignt', 'Count', 'sov_a3']]
 
-    df_map['date_2weeks'] = pd.to_datetime(df_map['date_2weeks'], errors='coerce', format='%Y-%m-%d', yearfirst=True)
-    initial_date = df_map['date_2weeks'].min()
+    df_map['date'] = pd.to_datetime(df_map['date'], errors='coerce', format='%Y-%m-%d', yearfirst=True)
+    initial_date = df_map['date'].min()
     initial_date = initial_date.strftime('%Y-%m-%d')
-    final_date = df_map['date_2weeks'].max()
+    final_date = df_map['date'].max()
     final_date = final_date.strftime('%Y-%m-%d')
 
     # Drop NA values
-    df_map.dropna(subset=['country', 'date_2weeks'], inplace=True)
+    df_map.dropna(subset=['country', 'date'], inplace=True)
 
     # convert column date to str
-    df_map['date_2weeks'] = df_map['date_2weeks'].dt.strftime('%Y-%m-%d')
+    df_map['date'] = df_map['date'].dt.strftime('%Y-%m-%d')
 
     return df_map, initial_date, final_date
 
@@ -49,7 +49,7 @@ def count_variants_per_country(df_map):
     countries_codes.drop_duplicates(inplace=True)
 
     ## count strains per country - by total
-    count_variants = df_map.groupby(['country', 'variant', 'date_2weeks'], as_index=False).size().rename(
+    count_variants = df_map.groupby(['country', 'category_2', 'date'], as_index=False).size().rename(
         columns={'size': 'Count'})
     count_variants = count_variants.merge(countries_codes, on='country', how='left')
 
@@ -66,7 +66,7 @@ def count_cumulative_genomes_per_country(df_map):
     countries_codes.drop_duplicates(inplace=True)
 
     ## count cumulative genomes per country - by total
-    count_genomes = df_map.groupby(['country', 'date_2weeks'], as_index=False).size().rename(
+    count_genomes = df_map.groupby(['country', 'date'], as_index=False).size().rename(
         columns={'size': 'Count'})
     count_genomes = count_genomes.merge(countries_codes, on='country', how='left')
 
@@ -99,18 +99,18 @@ def insert_lat_long_columns(df):
 def map_synthetic_data_variant(df, initial_date, final_date):
     coloured_map = df
     synthetic_data = []
-    for index, row in coloured_map.groupby('country')[['variant', 'sov_a3']].agg(
+    for index, row in coloured_map.groupby('country')[['category_2', 'sov_a3']].agg(
             'first').reset_index().iterrows():
-        synthetic_data.append([row['country'], row['variant'], initial_date, np.NAN, row['sov_a3'], np.NAN])
-        synthetic_data.append([row['country'], row['variant'], final_date, np.NAN, row['sov_a3'], np.NAN])
+        synthetic_data.append([row['country'], row['category_2'], initial_date, np.NAN, row['sov_a3'], np.NAN])
+        synthetic_data.append([row['country'], row['category_2'], final_date, np.NAN, row['sov_a3'], np.NAN])
     synthetic_data = pd.DataFrame(synthetic_data,
-                                  columns=['country', 'variant', 'date_2weeks', 'Count', 'sov_a3', 'percentage'])
+                                  columns=['country', 'category_2', 'date', 'Count', 'sov_a3', 'percentage'])
     # converting to datetime format
-    coloured_map['date_2weeks'] = pd.to_datetime(df['date_2weeks'], format='%Y-%m-%d', yearfirst=True)
-    synthetic_data['date_2weeks'] = pd.to_datetime(df['date_2weeks'], format='%Y-%m-%d', yearfirst=True)
-    coloured_map = coloured_map.append(synthetic_data).sort_values(by=['date_2weeks'])
+    coloured_map['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d', yearfirst=True)
+    synthetic_data['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d', yearfirst=True)
+    coloured_map = coloured_map.append(synthetic_data).sort_values(by=['date'])
     # changing datetime to str
-    coloured_map['date_2weeks'] = coloured_map['date_2weeks'].dt.strftime('%Y-%m-%d')
+    coloured_map['date'] = coloured_map['date'].dt.strftime('%Y-%m-%d')
     return coloured_map
 
 
@@ -131,32 +131,32 @@ def map_synthetic_data(df, initial_date, final_date):
         synthetic_data.append([row['country'], initial_date, np.NAN, row['sov_a3']])
         synthetic_data.append([row['country'], final_date, np.NAN, row['sov_a3']])
     synthetic_data = pd.DataFrame(synthetic_data,
-                                  columns=['country', 'date_2weeks', 'Count', 'sov_a3'])
+                                  columns=['country', 'date', 'Count', 'sov_a3'])
 
     # converting to datetime format
-    coloured_map['date_2weeks'] = pd.to_datetime(df['date_2weeks'], format='%Y-%m-%d', yearfirst=True)
-    synthetic_data['date_2weeks'] = pd.to_datetime(df['date_2weeks'], format='%Y-%m-%d', yearfirst=True)
-    coloured_map = coloured_map.append(synthetic_data).sort_values(by=['date_2weeks'])
+    coloured_map['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d', yearfirst=True)
+    synthetic_data['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d', yearfirst=True)
+    coloured_map = coloured_map.append(synthetic_data).sort_values(by=['date'])
 
     # adding missing dates to be filled by cumsum
-    dates_set = coloured_map['date_2weeks'].unique()
-    new_data = {'country': [], 'date_2weeks': [], 'Count': [], 'sov_a3': []}
+    dates_set = coloured_map['date'].unique()
+    new_data = {'country': [], 'date': [], 'Count': [], 'sov_a3': []}
     for country, df_country in coloured_map.groupby('country'):
-        country_dates = df_country['date_2weeks'].unique()
+        country_dates = df_country['date'].unique()
         for item in dates_set:
             if item not in country_dates:
                 new_data['country'].append(country)
-                new_data['date_2weeks'].append(item)
+                new_data['date'].append(item)
                 new_data['Count'].append(0)
                 new_data['sov_a3'].append(df_country['sov_a3'].iloc[0])
     new_data = pd.DataFrame(new_data)
     coloured_map = coloured_map.append(new_data)
 
     # Drop NA values
-    coloured_map.dropna(subset=['sov_a3', 'date_2weeks'], inplace=True)
+    coloured_map.dropna(subset=['sov_a3', 'date'], inplace=True)
 
     # changing datetime to str
-    coloured_map['date_2weeks'] = coloured_map['date_2weeks'].dt.strftime('%Y-%m-%d')
+    coloured_map['date'] = coloured_map['date'].dt.strftime('%Y-%m-%d')
     return coloured_map
 
 
@@ -165,24 +165,24 @@ def map_fill_na_values(df, map_count_column):
     coloured_map = df
     counts = []
     # converting to datetime format
-    coloured_map['date_2weeks'] = pd.to_datetime(df['date_2weeks'], format='%Y-%m-%d', yearfirst=True)
-    min_country_dates = coloured_map.groupby('country').agg({'date_2weeks': 'min'}).reset_index()
+    coloured_map['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d', yearfirst=True)
+    min_country_dates = coloured_map.groupby('country').agg({'date': 'min'}).reset_index()
 
     for index, row in coloured_map.iterrows():
-        min_date = min_country_dates['date_2weeks'].loc[min_country_dates['country'] == row['country']].min()
-        if (row['date_2weeks'] == min_date) and np.isnan(row[map_count_column]) == True:
+        min_date = min_country_dates['date'].loc[min_country_dates['country'] == row['country']].min()
+        if (row['date'] == min_date) and np.isnan(row[map_count_column]) == True:
             counts.append(0)
         else:
             counts.append(row[map_count_column])
     coloured_map[map_count_column] = counts
-    coloured_map_aux = coloured_map.sort_values(by=['country', 'date_2weeks'])
+    coloured_map_aux = coloured_map.sort_values(by=['country', 'date'])
     coloured_map_aux[map_count_column] = coloured_map_aux[map_count_column].fillna(method='ffill')
-    coloured_map = coloured_map_aux.sort_values(by='date_2weeks')
+    coloured_map = coloured_map_aux.sort_values(by='date')
     # changing datetime to str
-    coloured_map['date_2weeks'] = coloured_map['date_2weeks'].dt.strftime('%Y-%m-%d')
+    coloured_map['date'] = coloured_map['date'].dt.strftime('%Y-%m-%d')
 
     #dropping NA dates
-    coloured_map.dropna(subset=['date_2weeks'], inplace=True)
+    coloured_map.dropna(subset=['date'], inplace=True)
     return coloured_map
 
 
@@ -202,10 +202,10 @@ def colorpath_africa_map(df_africa, column, color_pallet):
         df_map = map_synthetic_data(df_map, initial_date, final_date)
 
         # dropping columns we don't need
-        # df_map.drop(['variant', 'sovereignt'], axis=1, inplace=True)
+        # df_map.drop(['category_2', 'sovereignt'], axis=1, inplace=True)
 
         # cumulative count column
-        df_map = df_map.sort_values(by='date_2weeks')
+        df_map = df_map.sort_values(by='date')
         df_map['Count'].fillna(0, inplace=True)
         df_map['cum_counts'] = df_map[['country', 'Count']].groupby('country').cumsum()
 
@@ -224,11 +224,11 @@ def colorpath_africa_map(df_africa, column, color_pallet):
             fig_map = px.choropleth(df_map,
                                     locations='country', geojson=africa_geojson, featureidkey="properties.sovereignt",
                                     color='cum_counts',
-                                    hover_name='country', animation_frame="date_2weeks",
+                                    hover_name='country', animation_frame="date",
                                     color_continuous_scale=color_pallet,
                                     range_color=[0, max(df_map['cum_counts'])],
-                                    labels={'cum_counts': 'Number of genomes', 'date_2weeks': 'Date'},
-                                    custom_data=['country', 'cum_counts', 'date_initial', 'date_2weeks'],
+                                    labels={'cum_counts': 'Number of genomes', 'date': 'Date'},
+                                    custom_data=['country', 'cum_counts', 'date_initial', 'date'],
                                     title="Cumulative genomes produced since {}".format(initial_date)
                                     )
             fig_map.update_layout(geo_scope="africa", geo_resolution=50)
@@ -289,15 +289,15 @@ def scatter_africa_map(df_africa, column, map_count_column):
 
             ### variants legend
             legend_box = st.container()
-            legend_box.write(custom_legend(concerned_variants, main_lineages_color_scheme, c))
+            legend_box.write(custom_legend(concerned_categories, main_categories_1_color_scheme, c))
 
             fig_map = px.scatter_geo(coloured_map, locations='country', geojson=africa_geojson,
                                      featureidkey="properties.sovereignt", hover_name='country',
-                                     hover_data=['variant', map_count_column],
-                                     labels={'percentage': 'Percentage of genomes', 'date_2weeks': 'Date'},
-                                     animation_frame="date_2weeks", size=map_count_column, animation_group='country',
-                                     color='variant', size_max=100,
-                                     color_discrete_map=main_lineages_color_scheme
+                                     hover_data=['category_2', map_count_column],
+                                     labels={'percentage': 'Percentage of genomes', 'date': 'Date'},
+                                     animation_frame="date", size=map_count_column, animation_group='country',
+                                     color='category_2', size_max=100,
+                                     color_discrete_map=main_categories_1_color_scheme
                                      )
             fig_map.update_traces(marker=dict(
                 size=coloured_map[map_count_column],
