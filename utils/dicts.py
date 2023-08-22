@@ -1,8 +1,6 @@
 ##### Palette colors #####
 main_categories_1_color_scheme = {}
 
-concerned_categories = {}
-
 ###### Dictionary to select countries per region ####
 countries_regions = {'Central Africa': {'Burundi', 'Cameroon', 'Central African Republic', 'Chad',
                                         'Republic of the Congo', 'Democratic Republic of the Congo',
@@ -23,5 +21,6 @@ countries_regions = {'Central Africa': {'Burundi', 'Cameroon', 'Central African 
 vocs_color_pallet = {'Unassigned': 'Greys', 'DENV-1': 'YlOrBr', 'DENV-2': 'Oranges', 'DENV-3': 'algae', 'DENV-4': 'RdPu'}
 
 
-##### CLIMADE dicts ########
+##### Dengue dashboard dicts ########
+#TODO Fill the dictionary with your categories
 dengue_categories = {}
