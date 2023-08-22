@@ -18,7 +18,7 @@ def main():
     remote_css('https://fonts.googleapis.com/icon?family=Material+Icons')
 
     ## Getting the data
-    df_africa = load_data('data/dengue/dengue_1.csv') # change the dataset here
+    df_africa = load_data('data/dengue/dengue_1.csv') #TODO change the dataset here
 
     ##### CHECK LAST UPDATE #####
     with open('last_update.txt', 'r') as f:
