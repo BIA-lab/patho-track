@@ -2,16 +2,14 @@
 
 # genomic-dash
 
-This repository is dedicated for the genomic dashboard template
+This repository is dedicated for the genomic dashboard tutorials
 
-## How to install:
-1. Make sure you have Docker installed. For more information access: https://docs.docker.com/engine/install/
-2. Build the image: `docker build -t genomic-dashboard .`
-3. Run the Docker container: `docker run -p 8511:8511 --name genomic-dashboard -d genomic-dashboard .` 
-4. You can view your Dashboard in your browser URL: http://0.0.0.0:8511
+## VEME 2023 - DENV-1 Dashboard - Half day module
 
-## Data
+To find the instructions and the codes for the DENV-1 Dashboard - Half day module you can just browse to the folder tutorials -> DENV1_dashboard_veme_2023 inside this repository, or you can simply click on the following link 
+<a href=''>DENGEV-1 Dashboard - VEME 2023</a>
 
-### Using metadata
-Create your metadata based on [data/template_metadata.csv](data/template_metadata.csv) and save as `./data/<pathogen>/metadata.csv`
-For example, if you are working with Dengue, save your metadata on data/dengue/metadata.csv
+## Reach us for support or more information
+
+If you have any question please contact us through the following e-mail address: 
+joicy.xavier7@gmail.com 
