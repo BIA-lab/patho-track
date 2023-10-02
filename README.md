@@ -29,7 +29,6 @@ In this workshop we show how to use VIPR database and Genome Detective to genera
 There are two ways to obtain the dataset to feed the Dengue Dashboard. Accessing the VEME Pathogen Workflow available on Terra and running the Jupyter Notebook with the data processing code in your own computer.
 
 <br>
-<br>
 
 Using Terra:
 
@@ -41,7 +40,6 @@ Using Terra:
 4. Follow the steps on the code and run everything to generate the dengue_1.csv dataset at the end
 5. Click on the generated dataset link at the end to download it.
 
-<br>
 <br>
 
 Using Jupyter Notebook:
