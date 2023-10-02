@@ -62,7 +62,7 @@ Obs: If you are using Google Colab, make sure to import the VIPR_databasae.csv f
 <br>
 <b>Customize the dashboard: </b>
 
-1. Download the pathogen dataset you've generated using the Jupyter Notebook or using Terra. In this case it is the "dengue_1.csv" file.
+1. Download the pathogen dataset you've generated using Terra, or make sure you have generated iy if you were using Jupyter Notebbok in your computer. In this case it is the "dengue_1.csv" file.
 
 2. Browse to the DENV1_dashboard_veme_2023 -> app -> data folder, and create a new folder called "dengue".
 
