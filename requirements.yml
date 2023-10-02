@@ -1,0 +1,13 @@
+name: climade-dashboard
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - streamlit=1.20.0
+  - pandas
+  - xlrd=1.2.0
+  - geopandas
+  - geopy=2.3.0
+  - plotly=5.13.0
+  - backports.lzma=0.0.14

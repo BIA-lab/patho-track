@@ -1,0 +1,6 @@
+streamlit==1.20.0
+pandas
+xlrd==1.2.0
+geopandas
+plotly==5.13.1
+geopy==2.3.0
