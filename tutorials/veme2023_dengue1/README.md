@@ -4,8 +4,6 @@
 
 There are two ways to obtain the dataset to feed the Dengue Dashboard. Accessing the VEME Pathogen Workflow available on Terra and running the Jupyter Notebook with the data processing code in your own computer.
 
-<br>
-
 ### Using Terra:
 
 1. Open the <a href='https://app.terra.bio/#workspaces/veme-training/VEME%202023%20Pathogen%20Dashboards'> VEME 2023 Dashboards halfway Module - Terra Workspace </a> in your browser. Create an account on terra if necessary.
@@ -19,11 +17,9 @@ There are two ways to obtain the dataset to feed the Dengue Dashboard. Accessing
 1. Browse to the tutorials -> veme2023_dengue1 folder in this repository.
 2. Open the "dashboard_data_cleaning.ipynb" code using Jupyter Lab (or Google Colab as an alternative)
 3. Follow all the steps on the code and run everything to generate the dengue_1.csv dataset at the end. Pay attention at the following parts:
-
-
-- Make sure to fill the variable "metadata_path" value with the path to the "VIPR_database.csv" file;
-- Make sure to fill the variable Entrez.email with your own email;
-- Make sure to fill the variable "output_file_path" value with the path you want to save the "dengue_1.csv" final result.
+    - Make sure to fill the variable "metadata_path" value with the path to the "VIPR_database.csv" file;
+    - Make sure to fill the variable Entrez.email with your own email;
+    - Make sure to fill the variable "output_file_path" value with the path you want to save the "dengue_1.csv" final result.
 
 <br>
 Obs: If you are using Google Colab, make sure to import the VIPR_databasae.csv file (located in the tutorials -> veme2023_dengue1 folder) to the Colab enviroment.
