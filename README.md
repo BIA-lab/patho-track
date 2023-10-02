@@ -1,6 +1,6 @@
 ![genomic-dash-logo](https://github.com/BIA-lab/genomic-dash/assets/48869631/e1c6b505-8f16-4881-9744-1900b4d7ae83)
 
-# genomic-dash Repository
+# Genomic-Dash Repository
 
 This repository aims to serve as a base to future works about genomic dashboards
 
@@ -24,35 +24,41 @@ For example, if you are working with Dengue, save your metadata on data/dengue/m
 In this workshop we show how to use VIPR database and Genome Detective to generate a DENV-1 dataset from Dengue in Africa, and how to build a dashboard with the Degue data using the Genomic Dash Framework
 
 <br>
-<br>
 <b>Generate the dengue_1 dataset: </b>
 
 There are two ways to obtain the dataset to feed the Dengue Dashboard. Accessing the VEME Pathogen Workflow available on Terra and running the Jupyter Notebook with the data processing code in your own computer.
+
 <br>
 <br>
+
 Using Terra:
-<br>
-<a href='https://app.terra.bio/#workspaces/veme-training/VEME%202023%20Pathogen%20Dashboards'> VEME 2023 Dashboards halfway Module - Terra Workspace </a>
-
-1. Browse to the "ANALYSES" menu.
-2. Open the "Dashboard data cleaning.ipynb" code 
-3. Follow the steps on the code and run everything to generate the dengue_1.csv dataset at the end
-4. Click on the generated dataset link at the end to download it.
 
 <br>
+
+1. Open the <a href='https://app.terra.bio/#workspaces/veme-training/VEME%202023%20Pathogen%20Dashboards'> VEME 2023 Dashboards halfway Module - Terra Workspace </a> in your browser. Create an account on terra if necessary.
+2. Browse to the "ANALYSES" menu.
+3. Open the "Dashboard data cleaning.ipynb" code 
+4. Follow the steps on the code and run everything to generate the dengue_1.csv dataset at the end
+5. Click on the generated dataset link at the end to download it.
+
 <br>
+<br>
+
 Using Jupyter Notebook:
+
 <br>
+
 1. Browse to the tutorials -> veme2023_dengue1 folder in this repository.
 2. Open the "dashboard_data_cleaning.ipynb" code using Jupyter Lab (or Google Colab as an alternative)
 3. Follow all the steps on the code and run everything to generate the dengue_1.csv dataset at the end. Pay attention at the following parts:
+
 
 - Make sure to fill the variable "metadata_path" value with the path to the "VIPR_database.csv" file;
 - Make sure to fill the variable Entrez.email with your own email;
 - Make sure to fill the variable "output_file_path" value with the path you want to save the "dengue_1.csv" final result.
 
 <br>
-* If you are using Google Colab, make sure to import the VIPR_databasae.csv file (located in the tutorials -> veme2023_dengue1 folder) to the Colab enviroment.
+Obs: If you are using Google Colab, make sure to import the VIPR_databasae.csv file (located in the tutorials -> veme2023_dengue1 folder) to the Colab enviroment.
 
 <br>
 <br>
@@ -76,21 +82,18 @@ Using Jupyter Notebook:
 
 <br>
 <b>Build the Docker image: </b>
-```
+
 docker build -t genomic-dashboard .
-```
 
 <br>
 <b>Run the Docker container: </b>
-```
 docker run -p 8511:8511 --name genomic-dashboard -d genomic-dashboard .
-```
 
-## Reference Paper
+## Reference
+<br>
+For further informations about genomic dashboards please go to <a href="https://www.nature.com/articles/s41564-022-01276-9"> SARS-CoV-2 Africa dashboard for real-time COVID-19 information </a>
 
-For further informations about how the genomic dashboards please go to <a href="https://www.nature.com/articles/s41564-022-01276-9"> SARS-CoV-2 Africa dashboard for real-time COVID-19 information </a>
-
-## Reach us for support or more information
-
+## Reach Us
+<br>
 If you have any question please contact us through the following e-mail address: 
 joicy.xavier@ufvjm.edu.br or joicy@sun.ac.za
