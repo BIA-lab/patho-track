@@ -91,7 +91,9 @@ docker run -p 8511:8511 --name genomic-dashboard -d genomic-dashboard .
 <br>
 For further informations about genomic dashboards please go to <a href="https://www.nature.com/articles/s41564-022-01276-9"> SARS-CoV-2 Africa dashboard for real-time COVID-19 information </a>
 
-## Reach Us
+## Contact Us
 <br>
 If you have any question please contact us through the following e-mail address: 
-joicy.xavier@ufvjm.edu.br or joicy@sun.ac.za
+
+- <a> joicy.xavier@ufvjm.edu.br </a>
+- <a> joicy@sun.ac.za </a>
