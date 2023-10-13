@@ -26,7 +26,7 @@ In this workshop we show how to use VIPR database and Genome Detective to genera
 
 ## Reference
 <br>
-For further informations about genomic dashboards please go to <a href="https://www.nature.com/articles/s41564-022-01276-9"> SARS-CoV-2 Africa dashboard for real-time COVID-19 information </a>
+Xavier, J.S., Moir, M., Tegally, H. et al. SARS-CoV-2 Africa dashboard for real-time COVID-19 information. Nat Microbiol 8, 1–4 (2023). <a href='https://doi.org/10.1038/s41564-022-01276-9'>https://doi.org/10.1038/s41564-022-01276-9</a>. 
 
 ## Contact Us
 <br>
