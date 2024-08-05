@@ -1,4 +1,4 @@
-![genomic-dash-logo](https://github.com/BIA-lab/patho-track/img/Logo PatoTrack color version horizontal.png)
+![patho-track-logo](https://raw.githubusercontent.com/BIA-lab/patho-track/main/img/patho-track-logo.png)
 
 # Patho Track Repository
 
