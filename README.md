@@ -1,8 +1,8 @@
-![genomic-dash-logo](https://github.com/BIA-lab/genomic-dash/assets/48869631/e1c6b505-8f16-4881-9744-1900b4d7ae83)
+![genomic-dash-logo](https://github.com/BIA-lab/patho-track/img/Logo PatoTrack color version horizontal.png)
 
-# Genomic-Dash Repository
+# Patho Track Repository
 
-This repository aims to serve as a base to future works about genomic dashboards
+This repository aims to serve as a base to future works on genomic and epidemiological dashboards
 
 ## Feeding the dashboard with metadata
 
@@ -19,9 +19,9 @@ For example, if you are working with Dengue, save your metadata on data/dengue/m
 
 ## Tutorials
 
-### VEME 2023 Pathogen Dashboards - DENV-1 Dashboard (Half day module)
+### VEME Pathogen Dashboards - DENV-1 Dashboard
 
-In this workshop we show how to use VIPR database and Genome Detective to generate a DENV-1 dataset from Dengue in Africa, and how to build a dashboard with the Dengue data using the Genomic Dash Framework.
+In this workshop we show how to use VIPR database and Genome Detective to generate a DENV-1 dataset from Dengue in Africa, and how to build a dashboard with the Dengue data using the Patho Track Framework.
 
 
 ## Reference
@@ -30,7 +30,7 @@ Xavier, J.S., Moir, M., Tegally, H. et al. SARS-CoV-2 Africa dashboard for real-
 
 ## Contact Us
 <br>
-If you have any question please contact us through the following e-mail address: 
+If you have any question please get in touch with us through the following e-mail address: 
 
 - <a> joicy.xavier@ufvjm.edu.br </a>
 - <a> joicy@sun.ac.za </a>
