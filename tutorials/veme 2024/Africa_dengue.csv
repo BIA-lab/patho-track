@@ -1,0 +1,874 @@
+Genome ID,Genome Name,Species,Completion Date,GenBank Accession,Size,collection_date,country,Geographic Group,Host Name,Host Common Name
+11053.10967,Dengue virus 1 SF729VI06,Dengue virus,2016-07-24T00:00:00Z,FJ502874,216,2005,Madagascar,Africa,Homo sapiens,Human
+11053.10981,Dengue virus 1 CNM664VI06,Dengue virus,2016-07-24T00:00:00Z,FJ502864,216,2006,Cameroon,Africa,Homo sapiens,Human
+11053.10982,Dengue virus 1 CNM399VI07,Dengue virus,2016-07-24T00:00:00Z,FJ502863,216,2007,Nigeria,Africa,Homo sapiens,Human
+11053.1102,Dengue virus 1 AO/DB136/2013,Dengue virus,2014-11-23T00:00:00Z,KM277614,1485,2013,Angola,Africa,Homo sapiens,Human
+11053.11023,Dengue virus 1 AO/DB135/2013,Dengue virus,2014-11-23T00:00:00Z,KM277613,1485,2013,Angola,Africa,Homo sapiens,Human
+11053.11413,Dengue virus 1 Reunion 281/04,Dengue virus,2008-12-01T00:00:00Z,EU282328,1485,2004-05,Reunion,Africa,,
+11053.11988,Dengue virus 1 DENV-1/TAN/DAR-S3/2019,Dengue virus,2021-04-19T00:00:00Z,MT835386,482,2019-03,Tanzania,Africa,Homo sapiens,Human
+11053.1199,Dengue virus 1 DENV-1/TAN/DAR-S2/2019,Dengue virus,2021-04-19T00:00:00Z,MT835385,482,2019-03,Tanzania,Africa,Homo sapiens,Human
+11053.11991,Dengue virus 1 DENV-1/TAN/DAR-S1/2019,Dengue virus,2021-04-19T00:00:00Z,MT835384,482,2019-03,Tanzania,Africa,Homo sapiens,Human
+11053.1255,Dengue virus 1 D1/H/IMTSSA/98/606,Dengue virus,2001-06-08T00:00:00Z,AF298808,10721,,Djibouti,Africa,,
+11053.13253,Dengue virus 1 KAJP2_DENV1_Gambia_Western.Africa_2010,Dengue virus,2021-11-18T00:00:00Z,MZ857203,10179,2010,Gambia,Africa,Homo sapiens,Human
+11053.13254,Dengue virus 1 KAJP5_DENV1_Angola_Central.Africa_2013,Dengue virus,2021-11-18T00:00:00Z,MZ857205,10179,2013,Angola,Africa,Homo sapiens,Human
+11053.13255,Dengue virus 1 KAJP7_DENV1_Kenya_Eastern.Africa_2013,Dengue virus,2021-11-18T00:00:00Z,MZ857206,10179,2013,Kenya,Africa,Homo sapiens,Human
+11053.13256,Dengue virus 1 KAJP17_DENV1_Eritrea_Eastern.Africa_2015,Dengue virus,2021-11-18T00:00:00Z,MZ857216,10179,2015,Eritrea,Africa,Homo sapiens,Human
+11053.13301,Dengue virus 1 KAJP18_DENV1_Kenya_Eastern.Africa_2016,Dengue virus,2021-11-18T00:00:00Z,OK040059,10161,2016,Kenya,Africa,Homo sapiens,Human
+11053.13302,Dengue virus 1 KAJP4_DENV1_Somalia_Eastern.Africa_2011,Dengue virus,2021-11-18T00:00:00Z,OK040060,10173,2011,Somalia,Africa,Homo sapiens,Human
+11053.13305,Dengue virus 1 Dengue_Douala_isolate_BN21,Dengue virus,2021-10-04T00:00:00Z,MW979757,957,2020-07-23,Cameroon,Africa,Human,Human
+11053.13361,Dengue virus 1 DENV1-5_RIO_H_36589,Dengue virus,2022-01-04T00:00:00Z,OL452067,10705,1988,Angola,Africa,Homo sapiens,Human
+11053.13706,Dengue virus 1 NG/DENV1/2020,Dengue virus,2022-03-24T00:00:00Z,LC702703,109,2020-09-25,Nigeria,Africa,Homo sapiens,Human
+11053.13731,Dengue virus 1 PREDICT_CMAH80161,Dengue virus,2022-05-29T00:00:00Z,MT125053,232,2018-05-30,Cameroon,Africa,Homo sapiens,Human
+11053.13732,Dengue virus 1 PREDICT_CMAH81157,Dengue virus,2022-05-29T00:00:00Z,MT125054,232,2018-08-20,Cameroon,Africa,Homo sapiens,Human
+11053.13855,dengue virus type I SYMAV-H0408,Dengue virus,2022-08-26T00:00:00Z,LC707378,1485,2021-03-10,Gabon,Africa,Homo sapiens,Human
+11053.13856,dengue virus type I SYMAV-H0983,Dengue virus,2022-08-26T00:00:00Z,LC707382,10670,2021-06-30,Gabon,Africa,Homo sapiens,Human
+11053.14228,dengue virus type I DS16177,Dengue virus,2022-11-28T00:00:00Z,ON631270,4699,Apr-2016,Seychelles,Africa,Homo sapiens,Human
+11053.14229,dengue virus type I DS16229,Dengue virus,2022-11-28T00:00:00Z,ON631271,4698,Apr-2016,Seychelles,Africa,Homo sapiens,Human
+11053.1423,dengue virus type I DS16232,Dengue virus,2022-11-28T00:00:00Z,ON631272,4699,Apr-2016,Seychelles,Africa,Homo sapiens,Human
+11053.14231,dengue virus type I DS16233,Dengue virus,2022-11-28T00:00:00Z,ON631273,4699,Apr-2016,Seychelles,Africa,Homo sapiens,Human
+11053.14232,dengue virus type I PR1914,Dengue virus,2022-11-28T00:00:00Z,ON631274,10004,Apr-2019,Reunion,Africa,Homo sapiens,Human
+11053.14233,dengue virus type I PR1615,Dengue virus,2022-11-28T00:00:00Z,ON631275,10004,Apr-2019,Reunion,Africa,Homo sapiens,Human
+11053.14234,dengue virus type I PO409,Dengue virus,2022-11-28T00:00:00Z,ON631276,10549,Feb-2020,Reunion,Africa,Homo sapiens,Human
+11053.14235,dengue virus type I PR1583,Dengue virus,2022-11-28T00:00:00Z,ON631277,10516,Apr-2019,Reunion,Africa,Homo sapiens,Human
+11053.14236,dengue virus type I PR6594,Dengue virus,2022-11-28T00:00:00Z,ON631278,10693,2021,Reunion,Africa,Homo sapiens,Human
+11053.14237,dengue virus type I RUN1-6594,Dengue virus,2022-11-28T00:00:00Z,ON631279,10708,2021,Reunion,Africa,Homo sapiens,Human
+11053.14238,dengue virus type I PR4483,Dengue virus,2022-11-28T00:00:00Z,ON631280,10690,2020,Reunion,Africa,Homo sapiens,Human
+11053.14239,dengue virus type I PR4463,Dengue virus,2022-11-28T00:00:00Z,ON631281,10668,2020,Reunion,Africa,Homo sapiens,Human
+11053.1424,dengue virus type I PR4453,Dengue virus,2022-11-28T00:00:00Z,ON631282,10678,2020,Reunion,Africa,Homo sapiens,Human
+11053.14241,dengue virus type I PR4443,Dengue virus,2022-11-28T00:00:00Z,ON631283,10688,2020,Reunion,Africa,Homo sapiens,Human
+11053.14518,dengue virus type I 17V-05661,Dengue virus,2023-03-14T00:00:00Z,OQ593389,10709,21-Jun-2017,Cameroon,Africa,Homo sapiens,Human
+11053.14519,dengue virus type I 17V-05703,Dengue virus,2023-03-14T00:00:00Z,OQ593388,10697,24-Jun-2017,Cameroon,Africa,Homo sapiens,Human
+11053.1452,dengue virus type I 17V-05705,Dengue virus,2023-03-14T00:00:00Z,OQ593390,10702,25-Jun-2017,Cameroon,Africa,Homo sapiens,Human
+11053.14521,dengue virus type I 18V-03504,Dengue virus,2023-03-14T00:00:00Z,OQ593393,10697,30-Jun-2018,Cameroon,Africa,Homo sapiens,Human
+11053.14522,dengue virus type I LT93,Dengue virus,2023-03-14T00:00:00Z,OQ593392,10722,13-Apr-2017,Cameroon,Africa,Homo sapiens,Human
+11053.14523,dengue virus type I LT81,Dengue virus,2023-03-14T00:00:00Z,OQ593391,10676,11-Apr-2017,Cameroon,Africa,Homo sapiens,Human
+11053.14631,dengue virus type I 415,Dengue virus,2023-05-01T00:00:00Z,MZ130530,9869,2016-06-17,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14632,dengue virus type I 15060281,Dengue virus,2023-05-01T00:00:00Z,MZ130531,10596,2015-05-29,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14633,dengue virus type I 314,Dengue virus,2023-05-01T00:00:00Z,MZ130532,10595,2016-04-06,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14634,dengue virus type I 369,Dengue virus,2023-05-01T00:00:00Z,MZ130535,10595,2016-05-09,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14635,dengue virus type I 19053724,Dengue virus,2023-05-01T00:00:00Z,MZ130534,10596,2019-05-28,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14636,dengue virus type I 408,Dengue virus,2023-05-01T00:00:00Z,MZ130533,10595,2016-06-17,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14637,dengue virus type I 395,Dengue virus,2023-05-01T00:00:00Z,MZ130537,10595,2016-06-14,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14638,dengue virus type I 200,Dengue virus,2023-05-01T00:00:00Z,MZ130536,10595,2016-01-07,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14639,dengue virus type I 397,Dengue virus,2023-05-01T00:00:00Z,MZ130538,10595,2016-06-14,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.1464,dengue virus type I 433,Dengue virus,2023-05-01T00:00:00Z,MZ130540,10595,2016-06-23,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14641,dengue virus type I 412,Dengue virus,2023-05-01T00:00:00Z,MZ130539,10595,2016-06-20,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14642,dengue virus type I 16072657,Dengue virus,2023-05-01T00:00:00Z,MZ130543,10575,2016-07-25,Seychelles,Africa,Homo sapiens,Human
+11053.14643,dengue virus type I 417,Dengue virus,2023-05-01T00:00:00Z,MZ130542,10595,2016-06-20,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14644,dengue virus type I 260,Dengue virus,2023-05-01T00:00:00Z,MZ130541,10595,2016-02-26,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11053.14646,dengue virus type I 20010742,Dengue virus,2023-05-01T00:00:00Z,MZ130546,10575,2020-01-08,Tanzania,Africa,Homo sapiens,Human
+11053.14647,dengue virus type I 20011392,Dengue virus,2023-05-01T00:00:00Z,MZ130545,10575,2020-01-12,Djibouti,Africa,Homo sapiens,Human
+11053.14648,dengue virus type I 20020472,Dengue virus,2023-05-01T00:00:00Z,MZ130547,10575,2020-01-31,Tanzania,Africa,Homo sapiens,Human
+11053.14652,dengue virus type I D1/TAN/739/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920075,1485,18-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14653,dengue virus type I D1/TAN/738/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920076,1485,07-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14654,dengue virus type I D1/TAN/733/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920077,1485,19-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14655,dengue virus type I D1/TAN/732/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920079,1485,21-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14656,dengue virus type I D1/TAN/737/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920078,1485,07-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14657,dengue virus type I D1/TAN/735/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920081,1485,28-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14658,dengue virus type I D1/TAN/731/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920080,1485,21-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14659,dengue virus type I D1/TAN/729/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920083,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1466,dengue virus type I D1/TAN/730/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920082,1485,12-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14661,dengue virus type I D1/TAN/725/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920085,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14662,dengue virus type I D1/TAN/728/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920084,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14663,dengue virus type I D1/TAN/717/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920087,1485,05-Dec-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14664,dengue virus type I D1/TAN/718/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920086,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14665,dengue virus type I D1/TAN/714/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920090,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14666,dengue virus type I D1/TAN/715/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920089,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14667,dengue virus type I D1/TAN/716/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920088,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14668,dengue virus type I D1/TAN/713/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920091,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14669,dengue virus type I D1/TAN/712/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920092,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1467,dengue virus type I D1/TAN/710/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920093,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14671,dengue virus type I D1/TAN/709/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920094,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14672,dengue virus type I D1/TAN/707/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920096,1485,06-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14673,dengue virus type I D1/TAN/708/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920095,1485,06-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14674,dengue virus type I D1/TAN/705/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920098,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14675,dengue virus type I D1/TAN/706/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920097,1485,06-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14676,dengue virus type I D1/TAN/703/KIL/2019,Dengue virus,2023-04-19T00:00:00Z,OM920099,1485,23-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14677,dengue virus type I D1/TAN/701/KIL/2019,Dengue virus,2023-04-19T00:00:00Z,OM920100,1485,24-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14678,dengue virus type I D1/TAN/697/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920101,1485,24-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14679,dengue virus type I D1/TAN/688/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920102,1485,17-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1468,dengue virus type I D1/TAN/687/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920103,1485,06-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14681,dengue virus type I D1/TAN/686/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920104,1485,06-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14682,dengue virus type I D1/TAN/685/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920105,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14683,dengue virus type I D1/TAN/683/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920106,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14684,dengue virus type I D1/TAN/682/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920107,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14685,dengue virus type I D1/TAN/674/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920108,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14686,dengue virus type I D1/TAN/671/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920109,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14687,dengue virus type I D1/TAN/670/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920110,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14688,dengue virus type I D1/TAN/665/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920111,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14689,dengue virus type I D1/TAN/659/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920112,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1469,dengue virus type I D1/TAN/656/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920113,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14691,dengue virus type I D1/TAN/654/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920114,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14692,dengue virus type I D1/TAN/653/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920115,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14693,dengue virus type I D1/TAN/646/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920117,1485,18-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14694,dengue virus type I D1/TAN/647/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920116,1485,18-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14695,dengue virus type I D1/TAN/644/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920119,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14696,dengue virus type I D1/TAN/645/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920118,1485,18-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14697,dengue virus type I D1/TAN/639/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920120,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14698,dengue virus type I D1/TAN/637/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920121,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14699,dengue virus type I D1/TAN/630/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920123,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.147,dengue virus type I D1/TAN/634/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920122,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14701,dengue virus type I D1/TAN/585/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920125,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14702,dengue virus type I D1/TAN/586/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920124,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14703,dengue virus type I D1/TAN/572/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920128,1485,04-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14704,dengue virus type I D1/TAN/579/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920126,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14705,dengue virus type I D1/TAN/574/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920127,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14706,dengue virus type I D1/TAN/569/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920129,1485,04-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14707,dengue virus type I D1/TAN/543/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920131,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14708,dengue virus type I D1/TAN/547/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920130,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14709,dengue virus type I D1/TAN/539/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920132,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1471,dengue virus type I D1/TAN/537/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920133,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14711,dengue virus type I D1/TAN/502/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920135,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14712,dengue virus type I D1/TAN/506/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920134,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14713,dengue virus type I D1/TAN/465/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920137,1485,30-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14714,dengue virus type I D1/TAN/466/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920136,1485,05-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14715,dengue virus type I D1/TAN/370/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920138,1485,21-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14716,dengue virus type I D1/TAN/353/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920139,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14717,dengue virus type I D1/TAN/352/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920140,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14718,dengue virus type I D1/TAN/351/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920141,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14719,dengue virus type I D1/TAN/350/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920142,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1472,dengue virus type I D1/TAN/344/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920143,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14721,dengue virus type I D1/TAN/343/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920144,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14722,dengue virus type I D1/TAN/312/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920145,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14723,dengue virus type I D1/TAN/295/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920147,1485,28-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14724,dengue virus type I D1/TAN/296/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920146,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14725,dengue virus type I D1/TAN/282/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920148,1485,24-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14726,dengue virus type I D1/TAN/272/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920149,1485,16-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14727,dengue virus type I D1/TAN/262/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920151,1485,06-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14728,dengue virus type I D1/TAN/269/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920150,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14729,dengue virus type I D1/TAN/256/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920152,1485,06-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1473,dengue virus type I D1/TAN/230/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920153,1485,17-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14731,dengue virus type I D1/TAN/228/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920154,1485,17-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14732,dengue virus type I D1/TAN/27/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920155,1485,15-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14733,dengue virus type I D1/TAN/226/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920156,1485,14-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14734,dengue virus type I D1/TAN/220/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920157,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14735,dengue virus type I D1/TAN/219/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920158,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14736,dengue virus type I D1/TAN/218/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920159,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14737,dengue virus type I D1/TAN/208/PW/2019,Dengue virus,2023-04-19T00:00:00Z,OM920160,1485,05-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14738,dengue virus type I D1/TAN/206/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920161,1485,05-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14739,dengue virus type I D1/TAN/203/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920162,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1474,dengue virus type I D1/TAN/198/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920163,1485,03-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14741,dengue virus type I D1/TAN/96/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920164,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14742,dengue virus type I D1/TAN/195/PW/2019,Dengue virus,2023-04-19T00:00:00Z,OM920165,1485,05-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14743,dengue virus type I D1/TAN/188/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920166,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14744,dengue virus type I D1/TAN/186/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920167,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14745,dengue virus type I D1/TAN/182/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920168,1485,30-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14746,dengue virus type I D1/TAN/151/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920169,1485,23-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14747,dengue virus type I D1/TAN/142/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920170,1485,20-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14748,dengue virus type I D1/TAN/139/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920171,1485,20-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14749,dengue virus type I D1/TAN/135/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920172,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1475,dengue virus type I D1/TAN/131/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920173,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14751,dengue virus type I D1/TAN/128/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920174,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14752,dengue virus type I D1/TAN/127/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920175,1485,04-Dec-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14753,dengue virus type I D1/TAN/122/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920176,1485,04-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14754,dengue virus type I D1/TAN/120/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920177,1485,04-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14755,dengue virus type I D1/TAN/109/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920179,1485,29-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14756,dengue virus type I D1/TAN/112/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920178,1485,04-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14757,dengue virus type I D1/TAN/38/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920181,1485,27-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14758,dengue virus type I D1/TAN/89/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920180,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14759,dengue virus type I D1/TAN/21/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920183,1485,02-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1476,dengue virus type I D1/TAN/32/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920182,1485,23-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14761,dengue virus type I D1/TAN/12/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920184,1485,19-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14762,dengue virus type I D1/TAN/11/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920185,1485,16-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14763,dengue virus type I D1/TAN/06/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920187,1485,11-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14764,dengue virus type I D1/TAN/07/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920186,1485,13-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14765,dengue virus type I D1/TAN/726/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920189,1485,16-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14766,dengue virus type I D1/TAN/727/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920188,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14767,dengue virus type I D1/TAN/724/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920190,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14768,dengue virus type I D1/TAN/723/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920191,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14769,dengue virus type I D1/TAN/720/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920193,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1477,dengue virus type I D1/TAN/719/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920194,1485,16-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14771,dengue virus type I D1/TAN/722/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920192,1485,13-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14772,dengue virus type I D1/TAN/668/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920195,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14773,dengue virus type I D1/TAN/662/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920196,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14774,dengue virus type I D1/TAN/655/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920197,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14775,dengue virus type I D1/TAN/652/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920198,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14776,dengue virus type I D1/TAN/650/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920199,1485,25-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14777,dengue virus type I D1/TAN/648/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920200,1485,18-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14778,dengue virus type I D1/TAN/635/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920201,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14779,dengue virus type I D1/TAN/596/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920203,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1478,dengue virus type I D1/TAN/597/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920202,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14781,dengue virus type I D1/TAN/595/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920204,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14782,dengue virus type I D1/TAN/594/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920205,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14783,dengue virus type I D1/TAN/591/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920207,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14784,dengue virus type I D1/TAN/592/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920206,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14785,dengue virus type I D1/TAN/590/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920208,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14786,dengue virus type I D1/TAN/589/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920209,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14787,dengue virus type I D1/TAN/588/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920210,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14788,dengue virus type I D1/TAN/587/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920211,1485,06-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14789,dengue virus type I D1/TAN/580/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920213,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1479,dengue virus type I D1/TAN/581/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920212,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14791,dengue virus type I D1/TAN/565/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920215,1485,04-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14792,dengue virus type I D1/TAN/567/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920214,1485,04-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14793,dengue virus type I D1/TAN/557/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920217,1485,23-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14794,dengue virus type I D1/TAN/563/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920216,1485,04-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14795,dengue virus type I D1/TAN/556/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920218,1485,31-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14796,dengue virus type I D1/TAN/552/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920219,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14797,dengue virus type I D1/TAN/550/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920220,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14798,dengue virus type I D1/TAN/548/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920221,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14799,dengue virus type I D1/TAN/545/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920222,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.148,dengue virus type I D1/TAN/544/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920223,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14801,dengue virus type I D1/TAN/542/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920224,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14802,dengue virus type I D1/TAN/541/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920225,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14803,dengue virus type I D1/TAN/532/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920226,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14804,dengue virus type I D1/TAN/525/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920227,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14805,dengue virus type I D1/TAN/521/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920228,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14806,dengue virus type I D1/TAN/520/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920229,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14807,dengue virus type I D1/TAN/518/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920230,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14808,dengue virus type I D1/TAN/516/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920231,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14809,dengue virus type I D1/TAN/514/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920232,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1481,dengue virus type I D1/TAN/513/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920233,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14811,dengue virus type I D1/TAN/512/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920234,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14812,dengue virus type I D1/TAN/510/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920235,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14813,dengue virus type I D1/TAN/509/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920236,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14814,dengue virus type I D1/TAN/507/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920237,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14815,dengue virus type I D1/TAN/505/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920238,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14816,dengue virus type I D1/TAN/504/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920239,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14817,dengue virus type I D1/TAN/501/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920240,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14818,dengue virus type I D1/TAN/482/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920241,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14819,dengue virus type I D1/TAN/464/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920242,1485,05-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1482,dengue virus type I D1/TAN/395/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920243,1485,26-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14821,dengue virus type I D1/TAN/386/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920244,1485,24-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14822,dengue virus type I D1/TAN/363/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920245,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14823,dengue virus type I D1/TAN/357/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920246,1485,18-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14824,dengue virus type I D1/TAN/332/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920248,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14825,dengue virus type I D1/TAN/348/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920247,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14826,dengue virus type I D1/TAN/331/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920249,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14827,dengue virus type I D1/TAN/324/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920250,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14828,dengue virus type I D1/TAN/323/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920251,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14829,dengue virus type I D1/TAN/316/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920253,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1483,dengue virus type I D1/TAN/318/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920252,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14831,dengue virus type I D1/TAN/315/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920254,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14832,dengue virus type I D1/TAN/304/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920255,1485,04-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14833,dengue virus type I D1/TAN/300/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920256,1485,04-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14834,dengue virus type I D1/TAN/281/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920258,1485,21-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14835,dengue virus type I D1/TAN/293/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920257,1485,28-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14836,dengue virus type I D1/TAN/275/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920260,1485,19-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14837,dengue virus type I D1/TAN/273/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920261,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14838,dengue virus type I D1/TAN/276/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920259,1485,20-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14839,dengue virus type I D1/TAN/266/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920262,1485,06-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1484,dengue virus type I D1/TAN/265/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920263,1485,06-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14841,dengue virus type I D1/TAN/260/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920264,1485,06-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14842,dengue virus type I D1/TAN/258/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920265,1485,06-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14843,dengue virus type I D1/TAN/243/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920266,1485,26-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14844,dengue virus type I D1/TAN/237/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920268,1485,20-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14845,dengue virus type I D1/TAN/242/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920267,1485,26-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14846,dengue virus type I D1/TAN/225/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920271,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14847,dengue virus type I D1/TAN/234/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920269,1485,20-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14848,dengue virus type I D1/TAN/229/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920270,1485,17-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14849,dengue virus type I D1/TAN/216/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920273,1485,14-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1485,dengue virus type I D1/TAN/223/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920272,1485,15-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14851,dengue virus type I D1/TAN/214/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920274,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14852,dengue virus type I D1/TAN/213/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920275,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14853,dengue virus type I D1/TAN/212/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920276,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14854,dengue virus type I D1/TAN/210/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920277,1485,05-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14855,dengue virus type I D1/TAN/205/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920278,1485,05-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14856,dengue virus type I D1/TAN/204/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920279,1485,05-Aug-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14857,dengue virus type I D1/TAN/201/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920280,1485,05-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14858,dengue virus type I D1/TAN/200/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920281,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14859,dengue virus type I D1/TAN/193/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920282,1485,05-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1486,dengue virus type I D1/TAN/192/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920283,1485,05-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14861,dengue virus type I D1/TAN/190/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920284,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14862,dengue virus type I D1/TAN/189/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920285,1485,05-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14863,dengue virus type I D1/TAN/185/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920286,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14864,dengue virus type I D1/TAN/184/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920287,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14865,dengue virus type I D1/TAN/183/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920288,1485,05-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14866,dengue virus type I D1/TAN/177/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920289,1485,29-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14867,dengue virus type I D1/TAN/175/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920290,1485,29-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14868,dengue virus type I D1/TAN/174/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920291,1485,29-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14869,dengue virus type I D1/TAN/173/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920292,1485,29-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1487,dengue virus type I D1/TAN/171/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920293,1485,28-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14871,dengue virus type I D1/TAN/170/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920294,1485,28-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14872,dengue virus type I D1/TAN/169/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920295,1485,28-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14873,dengue virus type I D1/TAN/168/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920296,1485,28-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14874,dengue virus type I D1/TAN/166/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920297,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14875,dengue virus type I D1/TAN/164/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920298,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14876,dengue virus type I D1/TAN/163/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920299,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14877,dengue virus type I D1/TAN/162/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920300,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14878,dengue virus type I D1/TAN/161/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920301,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14879,dengue virus type I D1/TAN/160/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920302,1485,27-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1488,dengue virus type I D1/TAN/159/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920303,1485,25-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14881,dengue virus type I D1/TAN/158/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920304,1485,25-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14882,dengue virus type I D1/TAN/157/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920305,1485,25-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14883,dengue virus type I D1/TAN/156/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920306,1485,25-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14884,dengue virus type I D1/TAN/155/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920307,1485,25-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14885,dengue virus type I D1/TAN/154/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920308,1485,23-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14886,dengue virus type I D1/TAN/153/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920309,1485,23-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14887,dengue virus type I D1/TAN/150/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920310,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14888,dengue virus type I D1/TAN/149/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920311,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14889,dengue virus type I D1/TAN/148/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920312,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1489,dengue virus type I D1/TAN/147/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920313,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14891,dengue virus type I D1/TAN/146/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920314,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14892,dengue virus type I D1/TAN/145/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920315,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14893,dengue virus type I D1/TAN/144/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920316,1485,22-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14894,dengue virus type I D1/TAN/143/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920317,1485,20-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14895,dengue virus type I D1/TAN/141/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920318,1485,19-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14896,dengue virus type I D1/TAN/140/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920319,1485,19-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14897,dengue virus type I D1/TAN/138/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920320,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14898,dengue virus type I D1/TAN/137/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920321,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14899,dengue virus type I D1/TAN/136/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920322,1485,17-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.149,dengue virus type I D1/TAN/133/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920323,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14901,dengue virus type I D1/TAN/132/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920324,1485,16-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14902,dengue virus type I D1/TAN/130/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920325,1485,15-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14903,dengue virus type I D1/TAN/129/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920326,1485,14-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14904,dengue virus type I D1/TAN/126/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920327,1485,04-Dec-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14905,dengue virus type I D1/TAN/125/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920328,1485,04-Nov-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14906,dengue virus type I D1/TAN/124/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920329,1485,04-Oct-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14907,dengue virus type I D1/TAN/123/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920330,1485,04-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14908,dengue virus type I D1/TAN/121/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920331,1485,04-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14909,dengue virus type I D1/TAN/118/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920332,1485,04-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1491,dengue virus type I D1/TAN/17/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920333,1485,20-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14911,dengue virus type I D1/TAN/115/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920334,1485,04-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14912,dengue virus type I D1/TAN/113/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920335,1485,04-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14913,dengue virus type I D1/TAN/111/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920336,1485,29-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14914,dengue virus type I D1/TAN/110/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920337,1485,29-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14915,dengue virus type I D1/TAN/108/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920338,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14916,dengue virus type I D1/TAN/106/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920339,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14917,dengue virus type I D1/TAN/104/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920340,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14918,dengue virus type I D1/TAN/103/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920341,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14919,dengue virus type I D1/TAN/102/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920342,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1492,dengue virus type I D1/TAN/101/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920343,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14921,dengue virus type I D1/TAN/100/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920344,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14922,dengue virus type I D1/TAN/99/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920345,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14923,dengue virus type I D1/TAN/98/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920346,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14924,dengue virus type I D1/TAN/97/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920347,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14925,dengue virus type I D1/TAN/95/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920348,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14926,dengue virus type I D1/TAN/94/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920349,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14927,dengue virus type I D1/TAN/93/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920350,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14928,dengue virus type I D1/TAN/92/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920351,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14929,dengue virus type I D1/TAN/88/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920352,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1493,dengue virus type I D1/TAN/87/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920353,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14931,dengue virus type I D1/TAN/86/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920354,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14932,dengue virus type I D1/TAN/85/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920355,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14933,dengue virus type I D1/TAN/84/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920356,1485,05-Jul-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14934,dengue virus type I D1/TAN/82/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920357,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14935,dengue virus type I D1/TAN/81/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920358,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14936,dengue virus type I D1/TAN/80/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920359,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14937,dengue virus type I D1/TAN/75/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920360,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14938,dengue virus type I D1/TAN/74/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920361,1485,07-Sep-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14939,dengue virus type I D1/TAN/73/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920362,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1494,dengue virus type I D1/TAN/72/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920363,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14941,dengue virus type I D1/TAN/67/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920364,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14942,dengue virus type I D1/TAN/66/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920365,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14943,dengue virus type I D1/TAN/65/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920366,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14944,dengue virus type I D1/TAN/64/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920367,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14945,dengue virus type I D1/TAN/63/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920368,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14946,dengue virus type I D1/TAN/62/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920369,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14947,dengue virus type I D1/TAN/60/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920370,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14948,dengue virus type I D1/TAN/58/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920371,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14949,dengue virus type I D1/TAN/52/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920375,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1495,dengue virus type I D1/TAN/51/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920376,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14951,dengue virus type I D1/TAN/50/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920377,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14952,dengue virus type I D1/TAN/49/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920378,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14953,dengue virus type I D1/TAN/55/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920373,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14955,dengue virus type I D1/TAN/48/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920379,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14956,dengue virus type I D1/TAN/46/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920380,1485,13-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14957,dengue virus type I D1/TAN/45/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920381,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14958,dengue virus type I D1/TAN/44/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920382,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14959,dengue virus type I D1/TAN/43/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920383,1485,29-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1496,dengue virus type I D1/TAN/42/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920384,1485,29-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14961,dengue virus type I D1/TAN/41/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920385,1485,28-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14962,dengue virus type I D1/TAN/40/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920386,1485,28-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14963,dengue virus type I D1/TAN/39/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920387,1485,27-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14964,dengue virus type I D1/TAN/37/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920388,1485,26-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14965,dengue virus type I D1/TAN/36/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920389,1485,25-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14966,dengue virus type I D1/TAN/35/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920390,1485,25-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14967,dengue virus type I D1/TAN/31/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920391,1485,22-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14968,dengue virus type I D1/TAN/33/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920392,1485,25-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14969,dengue virus type I D1/TAN/30/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920393,1485,03-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1497,dengue virus type I D1/TAN/29/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920394,1485,03-Apr-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14971,dengue virus type I D1/TAN/28/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920395,1485,15-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14972,dengue virus type I D1/TAN/53/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920374,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14973,dengue virus type I D1/TAN/26/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920396,1485,29-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14974,dengue virus type I D1/TAN/25/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920397,1485,24-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14975,dengue virus type I D1/TAN/24/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920398,1485,27-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14976,dengue virus type I D1/TAN/20/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920399,1485,15-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14977,dengue virus type I D1/TAN/56/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920372,1485,30-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14978,dengue virus type I D1/TAN/19/TA/2019,Dengue virus,2023-04-19T00:00:00Z,OM920400,1485,15-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14979,dengue virus type I D1/TAN/18/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920401,1485,22-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1498,dengue virus type I D1/TAN/16/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920402,1485,19-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14981,dengue virus type I D1/TAN/14/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920403,1485,15-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14982,dengue virus type I D1/TAN/13/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920404,1485,11-Mar-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14983,dengue virus type I D1/TAN/04/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920405,1485,11-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14984,dengue virus type I D1/TAN/03/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920406,1485,11-Feb-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14985,dengue virus type I D1/TAN/02/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920407,1485,19-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14986,dengue virus type I D1/TAN/702/KIL/2019,Dengue virus,2023-04-19T00:00:00Z,OM920408,1485,28-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14987,dengue virus type I D1/TAN/699/KIL/2019,Dengue virus,2023-04-19T00:00:00Z,OM920409,1485,23-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14988,dengue virus type I D1/TAN/693/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920410,1485,08-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14989,dengue virus type I D1/TAN/689/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920411,1485,17-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1499,dengue virus type I D1/TAN/227/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920412,1485,17-May-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14991,dengue virus type I D1/TAN/196/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920413,1485,05-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14992,dengue virus type I D1/TAN/195/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920414,1485,05-Jun-2019,Tanzania,Africa,Homo sapiens,Human
+11053.14993,dengue virus type I D1/TAN/01/DAR/2019,Dengue virus,2023-04-19T00:00:00Z,OM920415,1485,12-Jan-2019,Tanzania,Africa,Homo sapiens,Human
+11053.1685,Dengue virus 1 RIO H 36589,Dengue virus,2016-07-24T00:00:00Z,AF425610,1485,,Angola,Africa,Homo sapiens,Human
+11053.1714,Dengue virus 1 IBH 28328,Dengue virus,2016-07-24T00:00:00Z,AF425625,1485,,Nigeria,Africa,Homo sapiens,Human
+11053.1746,Dengue virus 1,Dengue virus,2016-07-25T00:00:00Z,AF426111,1044,,Angola,Africa,Homo sapiens,Human
+11053.1772,Dengue virus 1,Dengue virus,2016-07-25T00:00:00Z,AF426124,1044,,Nigeria,Africa,Homo sapiens,Human
+11053.18,Dengue virus 1,Dengue virus,2020-11-17T00:00:00Z,MW243050,10646,2017-10-30,Burkina Faso,Africa,Homo sapiens,Human
+11053.208,Dengue virus 1,Dengue virus,2013-07-23T00:00:00Z,KC848576,1485,2011,Somalia,Africa,C6/36,Lab host
+11053.209,Dengue virus 1,Dengue virus,2013-07-23T00:00:00Z,KC848577,1485,2011,Somalia,Africa,C6/36,Lab host
+11053.21,Dengue virus 1,Dengue virus,2013-07-23T00:00:00Z,KC848578,1485,2011,Somalia,Africa,C6/36,Lab host
+11053.211,Dengue virus 1,Dengue virus,2013-07-23T00:00:00Z,KC848579,1485,2011,Somalia,Africa,C6/36,Lab host
+11053.212,Dengue virus 1,Dengue virus,2013-07-23T00:00:00Z,KC848580,1485,2011,Somalia,Africa,C6/36,Lab host
+11053.22,Dengue virus 1,Dengue virus,2020-11-17T00:00:00Z,MW243062,10646,2019-09-18,Senegal,Africa,Homo sapiens,Human
+11053.23,Dengue virus 1,Dengue virus,2020-11-17T00:00:00Z,MW243063,10646,2015-10-22,Mauritania,Africa,Homo sapiens,Human
+11053.25,Dengue virus 1,Dengue virus,2020-11-29T00:00:00Z,MW288032,10693,2018-11,Senegal,Africa,Homo sapiens,Human
+11053.2574,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285549,1485,2004,Reunion,Africa,Homo sapiens,Human
+11053.2575,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285551,1485,2004,Reunion,Africa,Homo sapiens,Human
+11053.2576,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285552,1485,2004,Reunion,Africa,Homo sapiens,Human
+11053.2577,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285553,1485,2004,Reunion,Africa,Homo sapiens,Human
+11053.2578,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285554,1485,2004,Reunion,Africa,Homo sapiens,Human
+11053.2579,Dengue virus 1,Dengue virus,2016-07-26T00:00:00Z,DQ285557,1485,2004,Seychelles,Africa,Homo sapiens,Human
+11053.258,Dengue virus 1,Dengue virus,2006-12-01T00:00:00Z,DQ285558,10689,2004,Reunion,Africa,Homo sapiens,Human
+11053.2581,Dengue virus 1,Dengue virus,2006-12-01T00:00:00Z,DQ285559,10717,2004,Reunion,Africa,Homo sapiens,Human
+11053.2582,Dengue virus 1,Dengue virus,2006-12-01T00:00:00Z,DQ285560,10696,2004,Reunion,Africa,Homo sapiens,Human
+11053.2583,Dengue virus 1,Dengue virus,2006-12-01T00:00:00Z,DQ285561,10662,2004,Seychelles,Africa,Homo sapiens,Human
+11053.2584,Dengue virus 1,Dengue virus,2006-12-01T00:00:00Z,DQ285562,10721,1993,Comoros,Africa,Homo sapiens,Human
+11053.26,Dengue virus 1,Dengue virus,2020-11-29T00:00:00Z,MW288036,10683,2018-11,Senegal,Africa,Homo sapiens,Human
+11053.3879,Dengue virus 1 D1/Madagascar/0602aTw,Dengue virus,2016-07-26T00:00:00Z,EU448412,1485,2006,Madagascar,Africa,,
+11053.396,Dengue virus 1 DENV1-2522,Dengue virus,2017-01-25T00:00:00Z,KU509258,10377,2010,Eritrea,Africa,Homo sapiens,Human
+11053.3989,Dengue virus 1 AO/DB132/2013,Dengue virus,2014-11-23T00:00:00Z,KM277610,1485,2013,Angola,Africa,Homo sapiens,Human
+11053.399,Dengue virus 1 AO/DB133/2013,Dengue virus,2014-11-23T00:00:00Z,KM277611,1485,2013,Angola,Africa,Homo sapiens,Human
+11053.3991,Dengue virus 1 AO/DB134/2013,Dengue virus,2014-11-23T00:00:00Z,KM277612,1485,2013,Angola,Africa,Homo sapiens,Human
+11053.4863,Dengue virus 1 GA29-40,Dengue virus,2013-11-27T00:00:00Z,JX080292,472,2010,Gabon,Africa,Homo sapiens,Human
+11053.4864,Dengue virus 1 GA63AG,Dengue virus,2013-11-27T00:00:00Z,JX080293,472,2009,Gabon,Africa,Homo sapiens,Human
+11053.499,Dengue virus 1 2019/BJ/9943,Dengue virus,2019-12-16T00:00:00Z,MN600714,10646,2019-02-28,Benin,Africa,C6/36,Lab host
+11053.6746,Dengue virus 1 CFA193,Dengue virus,2020-07-14T00:00:00Z,MT076932,10735,2014-07,Kenya,Africa,Homo sapiens,Human
+11053.6747,Dengue virus 1 CFA201,Dengue virus,2020-07-14T00:00:00Z,MT076933,10735,2014-07,Kenya,Africa,Homo sapiens,Human
+11053.6748,Dengue virus 1 CFA346,Dengue virus,2020-07-14T00:00:00Z,MT076934,10735,2015-03,Kenya,Africa,Homo sapiens,Human
+11053.6749,Dengue virus 1 CFA348,Dengue virus,2020-07-14T00:00:00Z,MT076935,10735,2015-03,Kenya,Africa,Homo sapiens,Human
+11053.675,Dengue virus 1 MFA1021,Dengue virus,2020-07-14T00:00:00Z,MT076936,3402,2015-12,Kenya,Africa,Homo sapiens,Human
+11053.6963,Dengue virus 1 SH273755,Dengue virus,2019-11-21T00:00:00Z,MK940790,245,2015-12,Senegal,Africa,C6/36,Lab host
+11053.6966,Dengue virus 1 SH273756,Dengue virus,2019-11-21T00:00:00Z,MK940791,245,2015-12,Senegal,Africa,C6/36,Lab host
+11053.7063,Dengue virus 1 IP121,Dengue virus,2020-04-05T00:00:00Z,MT261951,10705,2017-10-23,Burkina Faso,Africa,Homo sapiens,Human
+11053.7064,Dengue virus 1 IP159,Dengue virus,2020-04-05T00:00:00Z,MT261952,10659,2017-11-09,Burkina Faso,Africa,Homo sapiens,Human
+11053.7066,Dengue virus 1 IP242,Dengue virus,2020-04-05T00:00:00Z,MT261953,10690,2017-10-09,Burkina Faso,Africa,Homo sapiens,Human
+11053.7067,Dengue virus 1 IP314,Dengue virus,2020-04-05T00:00:00Z,MT261954,10701,2017-11-02,Burkina Faso,Africa,Homo sapiens,Human
+11053.7071,Dengue virus 1 IP387,Dengue virus,2020-04-05T00:00:00Z,MT261955,10577,2017-12-12,Burkina Faso,Africa,Homo sapiens,Human
+11053.7878,Dengue virus 1 4A,Dengue virus,2020-10-31T00:00:00Z,MK045281,458,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11053.7882,Dengue virus 1 P9,Dengue virus,2020-10-31T00:00:00Z,MK045284,555,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11053.79,Dengue virus 1,Dengue virus,2013-09-24T00:00:00Z,KF184975,10602,2013-04,Angola,Africa,Homo sapiens,Human
+11053.922,Dengue virus 1 Gabon2012,Dengue virus,2018-09-04T00:00:00Z,MG877557,10751,2012,Gabon,Africa,Homo sapiens,Human
+11060.10529,Dengue virus 2 SENDAK-HD-10674,Dengue virus,2021-04-23T00:00:00Z,MW946564,10176,1970,Senegal,Africa,Homo sapiens,Human
+11060.11054,Dengue virus 2,Dengue virus,2021-07-01T00:00:00Z,MT583832,1250,2019-09-25,Nigeria,Africa,Homo sapiens,Human
+11060.11061,Dengue virus 2,Dengue virus,2021-07-01T00:00:00Z,MT582502,1271,2019-09-25,Nigeria,Africa,Homo sapiens,Human
+11060.11512,Dengue virus 2 222 Voi,Dengue virus,2021-03-01T00:00:00Z,MK473386,10173,2016-05-04,Kenya,Africa,Homo sapiens,Human
+11060.11513,Dengue virus 2 2016_85A_Wundanyi,Dengue virus,2021-03-01T00:00:00Z,MK473385,10173,2016-05-10,Kenya,Africa,Homo sapiens,Human
+11060.11514,Dengue virus 2 2016_c96_Wundanyi,Dengue virus,2021-03-01T00:00:00Z,MK473384,10173,2016-05-04,Kenya,Africa,Homo sapiens,Human
+11060.11515,Dengue virus 2 509 Mwatate,Dengue virus,2021-03-01T00:00:00Z,MK473383,1646,2016-06-24,Kenya,Africa,Homo sapiens,Human
+11060.11549,Dengue virus 2 Sak1Ng,Dengue virus,2021-01-01T00:00:00Z,MT012480,1025,2019-09-25,Nigeria,Africa,Homo sapiens,Human
+11060.11631,Dengue virus 2 DSG2020_345,Dengue virus,2022-01-24T00:00:00Z,OM317565,10630,2020-06-24,Cameroon,Africa,Homo sapiens,Human
+11060.11632,Dengue virus 2 DSG2020_061,Dengue virus,2022-01-24T00:00:00Z,OM317566,10380,2020-08-02,Cameroon,Africa,Homo sapiens,Human
+11060.11633,Dengue virus 2 F227/LEKMA/GH/2017,Dengue virus,2021-12-18T00:00:00Z,LC666718,10724,2017,Ghana,Africa,Homo sapiens,Human
+11060.11634,Dengue virus 2 F299/LEKMA/GH/2017,Dengue virus,2021-12-18T00:00:00Z,LC666719,10724,2017,Ghana,Africa,Homo sapiens,Human
+11060.11639,Dengue virus 2 KAJP8_DENV2_Kenya_Eastern.Africa_2014-07-07,Dengue virus,2021-11-18T00:00:00Z,MZ857207,2407,2014-07-07,Kenya,Africa,Homo sapiens,Human
+11060.1164,Dengue virus 2 KAJP9_DENV2_Kenya_Eastern.Africa_2013,Dengue virus,2021-11-18T00:00:00Z,MZ857208,10173,2013,Kenya,Africa,Homo sapiens,Human
+11060.11641,Dengue virus 2 KAJP10_DENV2_Kenya_Eastern.Africa_2013,Dengue virus,2021-11-18T00:00:00Z,MZ857209,10173,2013,Kenya,Africa,Homo sapiens,Human
+11060.11642,Dengue virus 2 KAJP11_DENV2_Tanzania_Eastern.Africa_2014,Dengue virus,2021-11-18T00:00:00Z,MZ857210,10173,2014,Tanzania,Africa,Homo sapiens,Human
+11060.11643,Dengue virus 2 KAJP13_DENV2_Tanzania_Eastern.Africa_2014,Dengue virus,2021-11-18T00:00:00Z,MZ857212,10173,2014,Tanzania,Africa,Homo sapiens,Human
+11060.11644,Dengue virus 2 KAJP12_DENV2_Mocambique_Eastern.Africa_2014,Dengue virus,2021-11-18T00:00:00Z,MZ857211,10173,2014,Mozambique,Africa,Homo sapiens,Human
+11060.11645,Dengue virus 2 KAJP14_DENV2_Tanzania_Eastern.Africa_2014-06,Dengue virus,2021-11-18T00:00:00Z,MZ857213,10173,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.11646,Dengue virus 2 KAJP15_DENV2_Tanzania_Eastern.Africa_2014,Dengue virus,2021-11-18T00:00:00Z,MZ857214,10173,2014,Tanzania,Africa,Homo sapiens,Human
+11060.11647,Dengue virus 2 KAJP16_DENV2_Somalia_Eastern.Africa_2015,Dengue virus,2021-11-18T00:00:00Z,MZ857215,10173,2015,Somalia,Africa,Homo sapiens,Human
+11060.11648,Dengue virus 2 KAJP21_DENV2_Eritrea_Eastern.Africa_2017,Dengue virus,2021-11-18T00:00:00Z,MZ857218,10173,2017,Eritrea,Africa,Homo sapiens,Human
+11060.11649,Dengue virus 2 KAJP22_DENV2_Somalia_Eastern.Africa_1996,Dengue virus,2021-11-18T00:00:00Z,MZ857219,10173,1996,Somalia,Africa,Homo sapiens,Human
+11060.1165,Dengue virus 2 KAJP24_DENV2_Uganda_Eastern.Africa_2017,Dengue virus,2021-11-18T00:00:00Z,MZ857221,10173,2017,Uganda,Africa,Homo sapiens,Human
+11060.11651,Dengue virus 2 KAJP23_DENV2_Burkina.Faso_Western.Africa_2017,Dengue virus,2021-11-18T00:00:00Z,MZ857220,10173,2017,Burkina Faso,Africa,Homo sapiens,Human
+11060.11652,Dengue virus 2 KAJP25_DENV2_Djibouti_Eastern.Africa_2007,Dengue virus,2021-11-18T00:00:00Z,MZ857222,10173,2007,Djibouti,Africa,Homo sapiens,Human
+11060.11695,Dengue virus 2 Dengue_Douala_isolate_NB80,Dengue virus,2021-10-04T00:00:00Z,MW979760,1393,2020-08-31,Cameroon,Africa,Human,Human
+11060.11696,Dengue virus 2 Dengue_Douala_isolate_NB32,Dengue virus,2021-10-04T00:00:00Z,MW979759,1352,2020-07-28,Cameroon,Africa,Human,Human
+11060.11697,Dengue virus 2 Dengue_Douala_isolate_NB12,Dengue virus,2021-10-04T00:00:00Z,MW979758,1315,2020-07-27,Cameroon,Africa,Human,Human
+11060.11698,Dengue virus 2 2018/MRT,Dengue virus,2021-10-12T00:00:00Z,OK384579,5055,2018,Mauritania,Africa,Mosquito,Mosquito
+11060.11699,Dengue virus 2 2018/MRT,Dengue virus,2021-10-12T00:00:00Z,OK384856,526,2018,Mauritania,Africa,Mosquito,Mosquito
+11060.11701,Dengue virus 2 DENV2-1_DAK_HD_76395,Dengue virus,2022-01-04T00:00:00Z,OK605757,10724,1990,Senegal,Africa,Homo sapiens,Human
+11060.11983,Dengue virus 2 D12,Dengue virus,2020-12-12T00:00:00Z,MW332260,990,2019-02-03,Nigeria,Africa,Homo sapiens,Human
+11060.12015,Dengue virus 2 D1,Dengue virus,2020-12-13T00:00:00Z,MW341537,1035,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12016,Dengue virus 2 D2,Dengue virus,2020-12-13T00:00:00Z,MW341538,990,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12017,Dengue virus 2 D3,Dengue virus,2020-12-13T00:00:00Z,MW341539,965,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12018,Dengue virus 2 D5,Dengue virus,2020-12-13T00:00:00Z,MW341540,1036,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12019,Dengue virus 2 D7,Dengue virus,2020-12-13T00:00:00Z,MW341542,1042,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.1202,Dengue virus 2 D6,Dengue virus,2020-12-13T00:00:00Z,MW341541,1045,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12021,Dengue virus 2 D10,Dengue virus,2020-12-13T00:00:00Z,MW341543,1037,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12022,Dengue virus 2 D11,Dengue virus,2020-12-13T00:00:00Z,MW341544,1045,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12023,Dengue virus 2 D12,Dengue virus,2020-12-13T00:00:00Z,MW341545,1045,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12024,Dengue virus 2 D13,Dengue virus,2020-12-13T00:00:00Z,MW341546,1045,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12025,Dengue virus 2 D14,Dengue virus,2020-12-13T00:00:00Z,MW341547,1045,2019-08,Nigeria,Africa,Homo sapiens,Human
+11060.12213,Dengue virus 2 19XN14641_D2_NER,Dengue virus,2022-07-05T00:00:00Z,ON885286,10570,2019-06-15,Niger,Africa,Homo sapiens,Human
+11060.1222,Dengue virus 2 19XN14641_D2_NER,Dengue virus,2022-07-07T00:00:00Z,ON907580,10570,2019-06-15,Niger,Africa,Homo sapiens,Human
+11060.12225,Dengue virus 2 19XN14641,Dengue virus,2022-07-07T00:00:00Z,ON908223,10542,2019-06-15,Niger,Africa,Homo sapiens,Human
+11060.12258,Dengue virus 2 310405,Dengue virus,2022-07-29T00:00:00Z,ON231308,10176,2018-10-28,Senegal,Africa,Homo sapiens,Human
+11060.12259,Dengue virus 2 310395,Dengue virus,2022-07-29T00:00:00Z,ON231304,10176,2018-10-26,Senegal,Africa,Homo sapiens,Human
+11060.1226,Dengue virus 2 310403,Dengue virus,2022-07-29T00:00:00Z,ON231307,10176,2018-10-28,Senegal,Africa,Homo sapiens,Human
+11060.12261,Dengue virus 2 310402,Dengue virus,2022-07-29T00:00:00Z,ON231306,10176,2018-10-28,Senegal,Africa,Homo sapiens,Human
+11060.12262,Dengue virus 2 310411,Dengue virus,2022-07-29T00:00:00Z,ON231309,10176,2018-10-28,Senegal,Africa,Homo sapiens,Human
+11060.12263,Dengue virus 2 310393,Dengue virus,2022-07-29T00:00:00Z,ON231310,10176,2018-10-31,Senegal,Africa,Homo sapiens,Human
+11060.12264,Dengue virus 2 310621,Dengue virus,2022-07-29T00:00:00Z,ON231313,10176,2018-11-09,Senegal,Africa,Homo sapiens,Human
+11060.12265,Dengue virus 2 310605,Dengue virus,2022-07-29T00:00:00Z,ON231311,10176,2018-11-09,Senegal,Africa,Homo sapiens,Human
+11060.12266,Dengue virus 2 310550,Dengue virus,2022-07-29T00:00:00Z,ON231312,10176,2018-11-08,Senegal,Africa,Homo sapiens,Human
+11060.12961,Dengue virus type 2 19052014,Dengue virus,2023-05-01T00:00:00Z,MZ130518,10597,2019-05-14,Reunion,Africa,Homo sapiens,Human
+11060.12962,Dengue virus type 2 326,Dengue virus,2023-05-01T00:00:00Z,MZ130520,10597,2016-04-11,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11060.12963,Dengue virus type 2 19030486,Dengue virus,2023-05-01T00:00:00Z,MZ130519,10598,2019-03-05,Mozambique,Africa,Homo sapiens,Human
+11060.12964,Dengue virus type 2 14101952,Dengue virus,2023-05-01T00:00:00Z,MZ130523,10597,2014-10-20,Cameroon,Africa,Homo sapiens,Human
+11060.12965,Dengue virus type 2 414,Dengue virus,2023-05-01T00:00:00Z,MZ130521,10597,2016-06-20,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11060.12966,Dengue virus type 2 17111591,Dengue virus,2023-05-01T00:00:00Z,MZ130522,10597,2017-11-07,Egypt,Africa,Homo sapiens,Human
+11060.12967,Dengue virus type 2 19123476,Dengue virus,2023-05-01T00:00:00Z,MZ130525,10597,2019-12-29,Cameroon,Africa,Homo sapiens,Human
+11060.12968,Dengue virus type 2 19071509,Dengue virus,2023-05-01T00:00:00Z,MZ130524,10597,2019-07-09,Benin,Africa,Homo sapiens,Human
+11060.12969,Dengue virus type 2 19010909,Dengue virus,2023-05-01T00:00:00Z,MZ130527,10597,2019-01-05,Reunion,Africa,Homo sapiens,Human
+11060.1297,Dengue virus type 2 14052110,Dengue virus,2023-05-01T00:00:00Z,MZ130526,10597,2014-05-21,Tanzania,Africa,Homo sapiens,Human
+11060.12971,Dengue virus type 2 18062888,Dengue virus,2023-05-01T00:00:00Z,MZ130528,10597,2018-06-24,Djibouti,Africa,Homo sapiens,Human
+11060.12972,Dengue virus type 2 17050355,Dengue virus,2023-05-01T00:00:00Z,MZ130529,10597,2017-04-30,Democratic Republic of the Congo,Africa,Homo sapiens,Human
+11060.12981,Dengue virus type 2 310398,Dengue virus,2023-05-13T00:00:00Z,ON231305,10176,29-Oct-2018,Senegal,Africa,Homo sapiens,Human
+11060.1894,Dengue virus 2 Uganda 1993,Dengue virus,2016-07-26T00:00:00Z,AF410375,1485,,Uganda,Africa,,
+11060.2628,Dengue virus 2,Dengue virus,2009-11-11T00:00:00Z,GU131843,10657,1986,Burkina Faso,Africa,Aedes aegypti,Yellow fever mosquito
+11060.2741,Dengue virus 2,Dengue virus,2016-07-14T00:00:00Z,DQ917246,1485,1980,Burkina Faso,Africa,,
+11060.2742,Dengue virus 2,Dengue virus,2016-07-14T00:00:00Z,DQ917247,1485,1980,Burkina Faso,Africa,,
+11060.2755,Dengue virus 2 IBH11234,Dengue virus,2008-07-10T00:00:00Z,EU003591,10501,1966-08-18,Nigeria,Africa,,
+11060.2757,Dengue virus 2 F32.D2.05,Dengue virus,2016-07-26T00:00:00Z,EU005251,454,2005,Ghana,Africa,Homo sapiens,Human
+11060.2761,Dengue virus 2 F32.D2.05,Dengue virus,2016-07-26T00:00:00Z,EU005258,1485,2005,Ghana,Africa,Homo sapiens,Human
+11060.3001,Dengue virus 2 G119VI05,Dengue virus,2016-07-24T00:00:00Z,FJ502917,219,1999,Djibouti,Africa,Homo sapiens,Human
+11060.3441,Dengue virus 2 Dak Ar 2039,Dengue virus,2007-08-21T00:00:00Z,EF105382,10722,1980,Burkina Faso,Africa,,
+11060.3442,Dengue virus 2 Dak HD 10674,Dengue virus,2007-08-21T00:00:00Z,EF105384,10724,1970,Senegal,Africa,,
+11060.3443,Dengue virus 2 Dak Ar D20761,Dengue virus,2007-08-21T00:00:00Z,EF105385,10724,1974,Senegal,Africa,,
+11060.3445,Dengue virus 2 IBH11208,Dengue virus,2007-08-21T00:00:00Z,EF105387,10709,1966,Nigeria,Africa,,
+11060.3446,Dengue virus 2 IBH11664,Dengue virus,2007-08-21T00:00:00Z,EF105388,10711,1966,Nigeria,Africa,,
+11060.3447,Dengue virus 2 Dak Ar 141069,Dengue virus,2007-08-21T00:00:00Z,EF105389,10723,1999,Senegal,Africa,,
+11060.3448,Dengue virus 2 Dak Ar 141070,Dengue virus,2007-08-21T00:00:00Z,EF105390,10717,1999,Senegal,Africa,,
+11060.3486,Dengue virus 2 PM33974,Dengue virus,2007-08-21T00:00:00Z,EF105378,10722,1981,Guinea,Africa,,
+11060.3498,Dengue virus 2 Dak Ar A2022,Dengue virus,2007-08-21T00:00:00Z,EF105386,10721,1980,Burkina Faso,Africa,,
+11060.353,Dengue virus 2,Dengue virus,2013-07-23T00:00:00Z,KC848581,1485,2011,Somalia,Africa,C6/36,Lab host
+11060.354,Dengue virus 2,Dengue virus,2013-07-23T00:00:00Z,KC848582,1485,2011,Somalia,Africa,C6/36,Lab host
+11060.355,Dengue virus 2,Dengue virus,2013-07-23T00:00:00Z,KC848583,1485,2011,Somalia,Africa,C6/36,Lab host
+11060.356,Dengue virus 2,Dengue virus,2013-07-23T00:00:00Z,KC848584,1485,2011,Somalia,Africa,C6/36,Lab host
+11060.437,Dengue virus 2 DENV2-6478,Dengue virus,2017-01-25T00:00:00Z,KU509307,1485,2014,Tanzania,Africa,Homo sapiens,Human
+11060.4393,Dengue virus 2 Dak Ar D75505,Dengue virus,2007-08-21T00:00:00Z,EF457904,10724,1999,Senegal,Africa,,
+11060.443,Dengue virus 2,Dengue virus,2017-11-01T00:00:00Z,MG189962,10665,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.4734,Dengue virus 2 GA_DENV2,Dengue virus,2012-11-05T00:00:00Z,JX080289,758,2007,Gabon,Africa,Homo sapiens,Human
+11060.4735,Dengue virus 2 GA24-33a,Dengue virus,2012-11-05T00:00:00Z,JX080290,758,2010,Gabon,Africa,Homo sapiens,Human
+11060.4736,Dengue virus 2 GA3-18,Dengue virus,2012-11-05T00:00:00Z,JX080291,758,2010,Gabon,Africa,Homo sapiens,Human
+11060.4737,Dengue virus 2 GA9BE,Dengue virus,2013-11-27T00:00:00Z,JX080294,758,2008,Gabon,Africa,Homo sapiens,Human
+11060.4738,Dengue virus 2 D2Gabon,Dengue virus,2013-11-27T00:00:00Z,JX080295,758,2007,Gabon,Africa,Homo sapiens,Human
+11060.4739,Dengue virus 2 GA1MC,Dengue virus,2013-11-27T00:00:00Z,JX080296,758,2009,Gabon,Africa,Homo sapiens,Human
+11060.474,Dengue virus 2 GA24_33b,Dengue virus,2013-11-27T00:00:00Z,JX080298,758,2010,Gabon,Africa,Homo sapiens,Human
+11060.4741,Dengue virus 2 GA2_60,Dengue virus,2013-11-27T00:00:00Z,JX080297,758,2010,Gabon,Africa,Homo sapiens,Human
+11060.484,Dengue virus 2 172_4_13,Dengue virus,2020-08-01T00:00:00Z,MN577551,9996,2013-04,Kenya,Africa,Homo sapiens,Human
+11060.4841,Dengue virus 2 004_2_14,Dengue virus,2020-08-01T00:00:00Z,MN577552,9996,2014-02,Kenya,Africa,Homo sapiens,Human
+11060.4842,Dengue virus 2 036_6_17,Dengue virus,2020-08-01T00:00:00Z,MN577553,10266,2017-06,Kenya,Africa,Homo sapiens,Human
+11060.4843,Dengue virus 2 040_6_17,Dengue virus,2020-08-01T00:00:00Z,MN577554,10266,2017-06,Kenya,Africa,Homo sapiens,Human
+11060.4844,Dengue virus 2 009_7_17,Dengue virus,2020-08-01T00:00:00Z,MN577555,10247,2017-07,Kenya,Africa,Homo sapiens,Human
+11060.4845,Dengue virus 2 010_7_17,Dengue virus,2020-08-01T00:00:00Z,MN577556,10290,2017-07,Kenya,Africa,Homo sapiens,Human
+11060.4846,Dengue virus 2 011_7_17,Dengue virus,2020-08-01T00:00:00Z,MN577557,10290,2017-07,Kenya,Africa,Homo sapiens,Human
+11060.4847,Dengue virus 2 017_7_17,Dengue virus,2020-08-01T00:00:00Z,MN577558,10469,2017-07,Kenya,Africa,Homo sapiens,Human
+11060.4848,Dengue virus 2 088_4_13,Dengue virus,2020-08-01T00:00:00Z,MN577559,10702,2013-04,Kenya,Africa,Homo sapiens,Human
+11060.4849,Dengue virus 2 052_5_13,Dengue virus,2020-08-01T00:00:00Z,MN577560,10715,2013-05,Kenya,Africa,Homo sapiens,Human
+11060.485,Dengue virus 2 236_5_13,Dengue virus,2020-08-01T00:00:00Z,MN577561,10715,2013-05,Kenya,Africa,Homo sapiens,Human
+11060.4851,Dengue virus 2 237_5_13,Dengue virus,2020-08-01T00:00:00Z,MN577562,10716,2013-05,Kenya,Africa,Homo sapiens,Human
+11060.4852,Dengue virus 2 065_5_13,Dengue virus,2020-08-01T00:00:00Z,MN577563,10280,2013-05,Kenya,Africa,Homo sapiens,Human
+11060.4853,Dengue virus 2 045_6_14,Dengue virus,2020-08-01T00:00:00Z,MN577564,10276,2014-06,Kenya,Africa,Homo sapiens,Human
+11060.4854,Dengue virus 2 020_1_14,Dengue virus,2020-08-01T00:00:00Z,MN577565,9996,2014-01,Kenya,Africa,Homo sapiens,Human
+11060.4855,Dengue virus 2 D2/Hu/BurkinaFaso/NIID125/2016,Dengue virus,2018-08-03T00:00:00Z,LC206003,1485,,Burkina Faso,Africa,Homo sapiens,Human
+11060.5382,Dengue virus 2 DENV2/KLF/001/2014,Dengue virus,2018-09-17T00:00:00Z,MH456892,10093,2014-10-17,Kenya,Africa,Homo sapiens,Human
+11060.5383,Dengue virus 2 DENV2/KLF/004/2014,Dengue virus,2018-09-17T00:00:00Z,MH456893,10173,2014-11-25,Kenya,Africa,Homo sapiens,Human
+11060.5384,Dengue virus 2 DENV2/KLF/006/2014,Dengue virus,2018-09-17T00:00:00Z,MH456894,8372,2014-06-20,Kenya,Africa,Homo sapiens,Human
+11060.5385,Dengue virus 2 DENV2/KLF/005/2014,Dengue virus,2018-09-17T00:00:00Z,MH456895,10173,2014-07-04,Kenya,Africa,Homo sapiens,Human
+11060.5386,Dengue virus 2 DENV2/KLF/009/2014,Dengue virus,2018-09-17T00:00:00Z,MH456896,4272,2014-06-20,Kenya,Africa,Homo sapiens,Human
+11060.5387,Dengue virus 2 DENV2/KLF/002/2014,Dengue virus,2018-09-17T00:00:00Z,MH456897,10173,2014-07-09,Kenya,Africa,Homo sapiens,Human
+11060.5388,Dengue virus 2 DENV2/KLF/003/2014,Dengue virus,2018-09-17T00:00:00Z,MH456898,10173,2014-06-23,Kenya,Africa,Homo sapiens,Human
+11060.5389,Dengue virus 2 DENV2/KLF/008/2014,Dengue virus,2018-09-17T00:00:00Z,MH456899,7859,2014-06-11,Kenya,Africa,Homo sapiens,Human
+11060.539,Dengue virus 2 DENV2/KLF/007/2014,Dengue virus,2018-09-17T00:00:00Z,MH456900,2407,2014-07-07,Kenya,Africa,Homo sapiens,Human
+11060.5391,Dengue virus 2 AO-1,Dengue virus,2019-03-25T00:00:00Z,MH460898,9979,2018-01-18,Angola,Africa,Homo sapiens,Human
+11060.5734,Dengue virus 2 CFA298,Dengue virus,2020-07-14T00:00:00Z,MT076937,10723,2015-01,Kenya,Africa,Homo sapiens,Human
+11060.5735,Dengue virus 2 CFA409,Dengue virus,2020-07-14T00:00:00Z,MT076938,783,2015-06,Kenya,Africa,Homo sapiens,Human
+11060.5736,Dengue virus 2 KFA0302,Dengue virus,2020-07-14T00:00:00Z,MT076939,791,2015-05,Kenya,Africa,Homo sapiens,Human
+11060.5737,Dengue virus 2 KFA319,Dengue virus,2020-07-14T00:00:00Z,MT076940,872,2015-06,Kenya,Africa,Homo sapiens,Human
+11060.5738,Dengue virus 2 KFA345,Dengue virus,2020-07-14T00:00:00Z,MT076941,925,2015-07,Kenya,Africa,Homo sapiens,Human
+11060.5739,Dengue virus 2 KFA540,Dengue virus,2020-07-14T00:00:00Z,MT076942,908,2016-01,Kenya,Africa,Homo sapiens,Human
+11060.574,Dengue virus 2 KFA566,Dengue virus,2020-07-14T00:00:00Z,MT076943,842,2016-02,Kenya,Africa,Homo sapiens,Human
+11060.5741,Dengue virus 2 MFA1060,Dengue virus,2020-07-14T00:00:00Z,MT076944,926,2016-01,Kenya,Africa,Homo sapiens,Human
+11060.5742,Dengue virus 2 RFA552,Dengue virus,2020-07-14T00:00:00Z,MT076945,924,2016-01,Kenya,Africa,Homo sapiens,Human
+11060.5743,Dengue virus 2 UFA1745,Dengue virus,2020-07-14T00:00:00Z,MT076946,941,2017-06,Kenya,Africa,Homo sapiens,Human
+11060.6038,Dengue virus 2 IP002,Dengue virus,2020-04-05T00:00:00Z,MT261956,10675,2017-10-16,Burkina Faso,Africa,Homo sapiens,Human
+11060.6039,Dengue virus 2 IP009,Dengue virus,2020-04-05T00:00:00Z,MT261957,10692,2017-10-16,Burkina Faso,Africa,Homo sapiens,Human
+11060.604,Dengue virus 2 IP012,Dengue virus,2020-04-05T00:00:00Z,MT261958,9391,2017-10-16,Burkina Faso,Africa,Homo sapiens,Human
+11060.6041,Dengue virus 2 IP029,Dengue virus,2020-04-05T00:00:00Z,MT261959,10651,2017-10-17,Burkina Faso,Africa,Homo sapiens,Human
+11060.6042,Dengue virus 2 IP036,Dengue virus,2020-04-05T00:00:00Z,MT261960,10666,2017-10-17,Burkina Faso,Africa,Homo sapiens,Human
+11060.6043,Dengue virus 2 IP091,Dengue virus,2020-04-05T00:00:00Z,MT261961,10697,2017-10-26,Burkina Faso,Africa,Homo sapiens,Human
+11060.6044,Dengue virus 2 IP099,Dengue virus,2020-04-05T00:00:00Z,MT261962,10676,2017-10-25,Burkina Faso,Africa,Homo sapiens,Human
+11060.6045,Dengue virus 2 IP103,Dengue virus,2020-04-05T00:00:00Z,MT261963,10695,2017-10-25,Burkina Faso,Africa,Homo sapiens,Human
+11060.6046,Dengue virus 2 IP112,Dengue virus,2020-04-05T00:00:00Z,MT261964,10695,2017-10-24,Burkina Faso,Africa,Homo sapiens,Human
+11060.6047,Dengue virus 2 IP127,Dengue virus,2020-04-05T00:00:00Z,MT261965,10654,2017-10-23,Burkina Faso,Africa,Homo sapiens,Human
+11060.6048,Dengue virus 2 IP153,Dengue virus,2020-04-05T00:00:00Z,MT261966,10697,2017-11-08,Burkina Faso,Africa,Homo sapiens,Human
+11060.6049,Dengue virus 2 IP246,Dengue virus,2020-04-05T00:00:00Z,MT261967,10701,2017-10-09,Burkina Faso,Africa,Homo sapiens,Human
+11060.605,Dengue virus 2 IP270,Dengue virus,2020-04-05T00:00:00Z,MT261968,10665,2017-10-12,Burkina Faso,Africa,Homo sapiens,Human
+11060.6051,Dengue virus 2 IP307,Dengue virus,2020-04-05T00:00:00Z,MT261969,10694,2017-10-30,Burkina Faso,Africa,Homo sapiens,Human
+11060.6052,Dengue virus 2 IP494,Dengue virus,2020-04-05T00:00:00Z,MT261970,10677,2017-11-03,Burkina Faso,Africa,Homo sapiens,Human
+11060.6053,Dengue virus 2 IP666,Dengue virus,2020-04-05T00:00:00Z,MT261971,10681,2017-11-06,Burkina Faso,Africa,Homo sapiens,Human
+11060.6313,Dengue virus 2 7869191/BF/2016,Dengue virus,2017-03-03T00:00:00Z,KY627762,10675,2016-11-05,Burkina Faso,Africa,Homo sapiens,Human
+11060.6315,Dengue virus 2 7754691/BF/2016,Dengue virus,2017-03-03T00:00:00Z,KY627763,10675,2016-11-21,Burkina Faso,Africa,Homo sapiens,Human
+11060.6368,Dengue virus 2 Mal_002,Dengue virus,2018-02-28T00:00:00Z,MG779194,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.637,Dengue virus 2 Mal_003,Dengue virus,2018-02-28T00:00:00Z,MG779195,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6371,Dengue virus 2 Mal_007,Dengue virus,2018-02-28T00:00:00Z,MG779196,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6372,Dengue virus 2 Mal_011,Dengue virus,2018-02-28T00:00:00Z,MG779197,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6373,Dengue virus 2 Mal_012,Dengue virus,2018-02-28T00:00:00Z,MG779198,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6374,Dengue virus 2 Mal_014,Dengue virus,2018-02-28T00:00:00Z,MG779199,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6375,Dengue virus 2 Mal_016,Dengue virus,2018-02-28T00:00:00Z,MG779200,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6376,Dengue virus 2 Mal_018,Dengue virus,2018-02-28T00:00:00Z,MG779201,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6377,Dengue virus 2 Mal_020,Dengue virus,2018-02-28T00:00:00Z,MG779202,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6378,Dengue virus 2 Mal_028,Dengue virus,2018-02-28T00:00:00Z,MG779203,10176,2017,Kenya,Africa,Homo sapiens,Human
+11060.6434,Dengue virus 2 2017/MR/CNR46460,Dengue virus,2020-09-13T00:00:00Z,MT980927,10668,2017-11-30,Mauritania,Africa,Homo sapiens,Human
+11060.6435,Dengue virus 2 2018/SN/CNR49422,Dengue virus,2020-09-13T00:00:00Z,MT981011,10669,2018-10-15,Senegal,Africa,Homo sapiens,Human
+11060.6436,Dengue virus 2 2018/MR/CNR50012,Dengue virus,2020-09-13T00:00:00Z,MT981085,10668,2018-12-13,Mauritania,Africa,Homo sapiens,Human
+11060.6437,Dengue virus 2 2019/SN/CNR50154,Dengue virus,2020-09-13T00:00:00Z,MT981148,10668,2019-01-04,Senegal,Africa,Homo sapiens,Human
+11060.6438,Dengue virus 2 2014/MR/B868,Dengue virus,2020-09-13T00:00:00Z,MT981491,1666,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6439,Dengue virus 2 2014/MR/B860,Dengue virus,2020-09-13T00:00:00Z,MT981492,1665,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.644,Dengue virus 2 2014/MR/B854,Dengue virus,2020-09-13T00:00:00Z,MT981494,1665,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6441,Dengue virus 2 2014/MR/B870,Dengue virus,2020-09-13T00:00:00Z,MT981511,1665,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6442,Dengue virus 2 2014/MR/B843,Dengue virus,2020-09-13T00:00:00Z,MT981512,1665,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6443,Dengue virus 2 2014/MR/B864,Dengue virus,2020-09-13T00:00:00Z,MT981513,1680,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6444,Dengue virus 2 2014/MR/B862,Dengue virus,2020-09-13T00:00:00Z,MT981514,1667,2014-11,Mauritania,Africa,Homo sapiens,Human
+11060.6445,Dengue virus 2 2019/BF/CNR52121,Dengue virus,2020-09-13T00:00:00Z,MT982126,10666,2019-08-10,Burkina Faso,Africa,Homo sapiens,Human
+11060.6447,Dengue virus 2 2019/BF/CNR52631,Dengue virus,2020-09-13T00:00:00Z,MT982148,10665,2019-09-08,Burkina Faso,Africa,Homo sapiens,Human
+11060.6451,Dengue virus 2 2016/BF/CNR41166,Dengue virus,2020-09-14T00:00:00Z,MT982731,10647,2016-11-02,Burkina Faso,Africa,Homo sapiens,Human
+11060.6452,Dengue virus 2 2017/ML/CNR46292,Dengue virus,2020-09-14T00:00:00Z,MT982917,1668,2017-11-08,Mali,Africa,Homo sapiens,Human
+11060.6453,Dengue virus 2 2019/TG/CNR51609,Dengue virus,2020-09-14T00:00:00Z,MT982918,1672,2019-06-30,Togo,Africa,Homo sapiens,Human
+11060.6454,Dengue virus 2 2016/BJ/CNR37671,Dengue virus,2020-09-14T00:00:00Z,MT982919,1672,2016-05-19,Benin,Africa,Homo sapiens,Human
+11060.6601,Dengue virus 2 FA0004/15/MZ/2015,Dengue virus,2017-10-22T00:00:00Z,KY815103,240,2015,Mozambique,Africa,Homo sapiens,Human
+11060.6603,Dengue virus 2 FA0012/15/MZ/2015,Dengue virus,2017-10-22T00:00:00Z,KY815104,240,2015,Mozambique,Africa,Homo sapiens,Human
+11060.6604,Dengue virus 2 FA0033/15/MZ/2015,Dengue virus,2017-10-22T00:00:00Z,KY815105,240,2015,Mozambique,Africa,Homo sapiens,Human
+11060.67,Dengue virus 2,Dengue virus,2020-11-29T00:00:00Z,MW288024,10659,2018-10,Senegal,Africa,Homo sapiens,Human
+11060.68,Dengue virus 2,Dengue virus,2020-11-29T00:00:00Z,MW288029,10640,2018-10,Senegal,Africa,Homo sapiens,Human
+11060.69,Dengue virus 2,Dengue virus,2020-11-29T00:00:00Z,MW288030,10641,2018-10,Senegal,Africa,Homo sapiens,Human
+11060.6975,Dengue virus 2 IL2_SRH_001/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288895,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6976,Dengue virus 2 T2_AAH_002/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288896,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6977,Dengue virus 2 IL1_FN_033/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288897,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6978,Dengue virus 2 IL2_RPG_045/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288898,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6979,Dengue virus 2 IL2_FJK_030/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288899,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.698,Dengue virus 2 IL2_BSM_016/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288900,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6981,Dengue virus 2 T1_MMB_012/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288901,729,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.6982,Dengue virus 2 D2_K2_RIJ_059/Dar es Salaam 2014,Dengue virus,2016-05-12T00:00:00Z,KT288902,1685,2014-06,Tanzania,Africa,Homo sapiens,Human
+11060.7,Dengue virus 2,Dengue virus,2020-11-29T00:00:00Z,MW288034,10551,2018-11,Senegal,Africa,Homo sapiens,Human
+11060.734,Dengue virus 2,Dengue virus,2016-08-08T00:00:00Z,KU577445,307,2014,Cabo Verde,Africa,Aedes aegypti,Yellow fever mosquito
+11060.735,Dengue virus 2,Dengue virus,2016-08-08T00:00:00Z,KU577446,307,2014,Cabo Verde,Africa,Aedes aegypti,Yellow fever mosquito
+11060.736,Dengue virus 2,Dengue virus,2016-08-08T00:00:00Z,KU577447,307,2014,Cabo Verde,Africa,Aedes aegypti,Yellow fever mosquito
+11060.7374,Dengue virus 2 LEKMA/GH/2017,Dengue virus,2018-08-14T00:00:00Z,MG937762,486,2017-05-05,Ghana,Africa,Homo sapiens,Human
+11060.7375,Dengue virus 2 LEKMA/GH/2017,Dengue virus,2018-08-14T00:00:00Z,MG937763,442,2017-05-05,Ghana,Africa,Homo sapiens,Human
+11060.7376,Dengue virus 2 RUJul,Dengue virus,2019-10-03T00:00:00Z,MN272404,10724,2018-03,Reunion,Africa,Homo sapiens,Human
+11060.7377,Dengue virus 2 RU16417,Dengue virus,2019-10-03T00:00:00Z,MN272405,10724,2016-05-07,Seychelles,Africa,Homo sapiens,Human
+11060.7401,Dengue virus 2 Mombasa/2013/001,Dengue virus,2017-09-21T00:00:00Z,KT716076,1485,,Kenya,Africa,Homo sapiens,Human
+11060.7402,Dengue virus 2 Mombasa/2013/002,Dengue virus,2017-09-21T00:00:00Z,KT716077,1485,,Kenya,Africa,Homo sapiens,Human
+11060.7403,Dengue virus 2 Mombasa/2013/003,Dengue virus,2017-09-21T00:00:00Z,KT716078,1485,,Kenya,Africa,Homo sapiens,Human
+11060.7458,Dengue virus 2 AFI_MDH_243,Dengue virus,2020-02-20T00:00:00Z,MN335244,10173,2017-05-29,Kenya,Africa,Homo sapiens,Human
+11060.7459,Dengue virus 2 AFI_MDH_240,Dengue virus,2020-02-20T00:00:00Z,MN335245,10173,2017-05-22,Kenya,Africa,Homo sapiens,Human
+11060.746,Dengue virus 2 AFI_MDH_244,Dengue virus,2020-02-20T00:00:00Z,MN335246,10165,2017-06-07,Kenya,Africa,Homo sapiens,Human
+11060.7461,Dengue virus 2 AFI_MDH_232,Dengue virus,2020-02-20T00:00:00Z,MN335247,10173,2017-04-10,Kenya,Africa,Homo sapiens,Human
+11060.8695,Dengue virus 2 WI218VI05,Dengue virus,2016-07-24T00:00:00Z,FJ502918,219,2005,Cameroon,Africa,Homo sapiens,Human
+11060.8781,Dengue virus 2 ArA6894,Dengue virus,2016-07-25T00:00:00Z,HM234642,1485,1986,Burkina Faso,Africa,,
+11060.8922,Dengue virus 2 1349,Dengue virus,2008-07-10T00:00:00Z,EU056810,10723,1983,Burkina Faso,Africa,Homo sapiens,Human
+11060.9278,Dengue virus 2 HCBD214,Dengue virus,2021-07-14T00:00:00Z,MZ520905,1470,2014-04-10,Tanzania,Africa,Homo sapiens,Human
+11060.9884,Dengue virus 2 A27500_P138,Dengue virus,2021-01-20T00:00:00Z,MW481694,9980,2018-05-17,Angola,Africa,Homo sapiens,Human
+11060.9885,Dengue virus 2 U75528_P140,Dengue virus,2021-01-20T00:00:00Z,MW481693,9980,2018-05-20,Angola,Africa,Homo sapiens,Human
+11060.9889,Dengue virus 2 U76123_P58,Dengue virus,2021-01-20T00:00:00Z,MW481692,9980,2018-06-01,Angola,Africa,Homo sapiens,Human
+11060.989,Dengue virus 2 U75168_P15,Dengue virus,2021-01-20T00:00:00Z,MW481691,9980,2018-05-13,Angola,Africa,Homo sapiens,Human
+11060.9898,Dengue virus 2 D/18/20_P26,Dengue virus,2021-01-20T00:00:00Z,MW481690,9980,2018-03-31,Angola,Africa,Homo sapiens,Human
+11060.99,Dengue virus 2 D/18/91_P55,Dengue virus,2021-01-20T00:00:00Z,MW481689,9980,2018-05-15,Angola,Africa,Homo sapiens,Human
+11060.9903,Dengue virus 2 D/18/88_P54,Dengue virus,2021-01-20T00:00:00Z,MW481687,9980,2018-05-14,Angola,Africa,Homo sapiens,Human
+11060.9904,Dengue virus 2 D/18/46_P48,Dengue virus,2021-01-20T00:00:00Z,MW481688,9980,2018-04-17,Angola,Africa,Homo sapiens,Human
+11060.9911,Dengue virus 2 D/18/47_P49,Dengue virus,2021-01-20T00:00:00Z,MW481686,9980,2018-04-17,Angola,Africa,Homo sapiens,Human
+11060.9913,Dengue virus 2 D/18/29_P33,Dengue virus,2021-01-20T00:00:00Z,MW481685,9980,2018-04-07,Angola,Africa,Homo sapiens,Human
+11060.9916,Dengue virus 2 P07656_P10,Dengue virus,2021-01-20T00:00:00Z,MW481683,9980,2018-04-23,Angola,Africa,Homo sapiens,Human
+11060.9917,Dengue virus 2 D/18/16_P22,Dengue virus,2021-01-20T00:00:00Z,MW481684,9980,2018-03-31,Angola,Africa,Homo sapiens,Human
+11060.9922,Dengue virus 2 U74061_P6,Dengue virus,2021-01-20T00:00:00Z,MW481682,9980,2018-04-24,Angola,Africa,Homo sapiens,Human
+11060.9925,Dengue virus 2 U74058_P5,Dengue virus,2021-01-20T00:00:00Z,MW481681,9980,2018-04-24,Angola,Africa,Homo sapiens,Human
+11060.9927,Dengue virus 2 U74826_P4,Dengue virus,2021-01-20T00:00:00Z,MW481680,9980,2018-05-07,Angola,Africa,Homo sapiens,Human
+11060.9928,Dengue virus 2 D/18/28_P32,Dengue virus,2021-01-20T00:00:00Z,MW481679,9980,2018-04-07,Angola,Africa,Homo sapiens,Human
+11060.9936,Dengue virus 2 D/18/23_P29,Dengue virus,2021-01-20T00:00:00Z,MW481678,9980,2018-03-31,Angola,Africa,Homo sapiens,Human
+11060.9937,Dengue virus 2 D/18/21_P27,Dengue virus,2021-01-20T00:00:00Z,MW481677,9980,2018-03-31,Angola,Africa,Homo sapiens,Human
+11060.9939,Dengue virus 2 A25665_P7,Dengue virus,2021-01-20T00:00:00Z,MW481675,9980,2018-03-12,Angola,Africa,Homo sapiens,Human
+11060.994,Dengue virus 2 D/18/17_P23,Dengue virus,2021-01-20T00:00:00Z,MW481676,9980,2018-04-04,Angola,Africa,Homo sapiens,Human
+11060.9947,Dengue virus 2 P07571_P3,Dengue virus,2021-01-20T00:00:00Z,MW481674,9980,2018-04-16,Angola,Africa,Homo sapiens,Human
+11060.9949,Dengue virus 2 U73980_P2,Dengue virus,2021-01-20T00:00:00Z,MW481673,9980,2018-04-22,Angola,Africa,Homo sapiens,Human
+11060.9951,Dengue virus 2 U75169_P1,Dengue virus,2021-01-20T00:00:00Z,MW481672,9980,2018-05-13,Angola,Africa,Homo sapiens,Human
+11060.9953,Dengue virus 2 182,Dengue virus,2021-01-20T00:00:00Z,MW481671,9980,2018-07-09,Angola,Africa,Homo sapiens,Human
+11060.9958,Dengue virus 2 85,Dengue virus,2021-01-20T00:00:00Z,MW481670,9980,2019-02-15,Angola,Africa,Homo sapiens,Human
+11069.19,Dengue virus 3,Dengue virus,2013-07-23T00:00:00Z,KC848585,1479,2011,Somalia,Africa,C6/36,Lab host
+11069.191,Dengue virus 3,Dengue virus,2013-07-23T00:00:00Z,KC848586,1479,2011,Somalia,Africa,C6/36,Lab host
+11069.192,Dengue virus 3,Dengue virus,2013-07-23T00:00:00Z,KC848587,1479,2011,Somalia,Africa,C6/36,Lab host
+11069.193,Dengue virus 3,Dengue virus,2013-07-23T00:00:00Z,KC848588,1479,2011,Somalia,Africa,C6/36,Lab host
+11069.194,Dengue virus 3,Dengue virus,2013-07-23T00:00:00Z,KC848589,1479,2011,Somalia,Africa,C6/36,Lab host
+11069.2,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288025,10515,2018-10,Senegal,Africa,Homo sapiens,Human
+11069.21,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288026,10525,2018-10,Senegal,Africa,Homo sapiens,Human
+11069.218,Dengue virus 3 DENV3-3140,Dengue virus,2017-01-25T00:00:00Z,KU509282,10568,2009,Senegal,Africa,Homo sapiens,Human
+11069.22,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288027,10655,2018-10,Senegal,Africa,Homo sapiens,Human
+11069.23,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288028,10680,2018-10,Senegal,Africa,Homo sapiens,Human
+11069.24,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288031,10680,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.25,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288033,10650,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.26,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288035,10641,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.27,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288037,10663,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.28,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288038,10639,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.29,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288039,10662,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.3,Dengue virus 3,Dengue virus,2020-11-29T00:00:00Z,MW288040,10650,2018-11,Senegal,Africa,Homo sapiens,Human
+11069.3501,Dengue virus 3 GA28-7,Dengue virus,2013-11-27T00:00:00Z,JX080299,935,2010,Gabon,Africa,Homo sapiens,Human
+11069.3579,Dengue virus 3 SYMAV-02/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379193,10663,2016-05-15,Gabon,Africa,Homo sapiens,Human
+11069.3582,Dengue virus 3 SYMAV-03/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379194,10663,2016-05-20,Gabon,Africa,Homo sapiens,Human
+11069.3585,Dengue virus 3 SYMAV-07/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379195,10663,2016-07-14,Gabon,Africa,Homo sapiens,Human
+11069.3588,Dengue virus 3 SYMAV-09/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379196,10663,2016-07-22,Gabon,Africa,Homo sapiens,Human
+11069.3592,Dengue virus 3 SYMAV-17/Gabon/2017,Dengue virus,2019-12-12T00:00:00Z,LC379197,10641,2017-04-15,Gabon,Africa,Homo sapiens,Human
+11069.3593,Dengue virus 3 SYMAV-01/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379198,1479,2016-05-01,Gabon,Africa,Homo sapiens,Human
+11069.3597,Dengue virus 3 SYMAV-04/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379199,1479,2016-06-17,Gabon,Africa,Homo sapiens,Human
+11069.3599,Dengue virus 3 SYMAV-06/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379200,1479,2016-07-05,Gabon,Africa,Homo sapiens,Human
+11069.3601,Dengue virus 3 SYMAV-08/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379201,1479,2016-07-15,Gabon,Africa,Homo sapiens,Human
+11069.3602,Dengue virus 3 SYMAV-10/Gabon/2016,Dengue virus,2019-12-12T00:00:00Z,LC379202,1479,2016-08-08,Gabon,Africa,Homo sapiens,Human
+11069.3604,Dengue virus 3 EV-042,Dengue virus,2019-08-20T00:00:00Z,LC379220,414,2014,Ghana,Africa,Homo sapiens,Human
+11069.3606,Dengue virus 3 EV-050,Dengue virus,2019-08-20T00:00:00Z,LC379221,414,2014,Ghana,Africa,Homo sapiens,Human
+11069.3608,Dengue virus 3 EV-073,Dengue virus,2019-08-20T00:00:00Z,LC379222,414,2014,Ghana,Africa,Homo sapiens,Human
+11069.361,Dengue virus 3 EV-042,Dengue virus,2019-08-20T00:00:00Z,LC379223,674,2014,Ghana,Africa,Homo sapiens,Human
+11069.3613,Dengue virus 3 EV-073,Dengue virus,2019-08-20T00:00:00Z,LC379224,674,2014,Ghana,Africa,Homo sapiens,Human
+11069.3903,Dengue virus 3 Sudan strain-1,Dengue virus,2020-02-09T00:00:00Z,MT012479,297,2019-10-15,Sudan,Africa,Homo sapiens,Human
+11069.3909,Dengue virus 3 CFA337,Dengue virus,2020-07-14T00:00:00Z,MT076947,1528,2015-03,Kenya,Africa,Homo sapiens,Human
+11069.391,Dengue virus 3 CFA379,Dengue virus,2020-07-14T00:00:00Z,MT076948,10596,2015-05,Kenya,Africa,Homo sapiens,Human
+11069.3911,Dengue virus 3 RFA411,Dengue virus,2020-07-14T00:00:00Z,MT076949,1528,2015-06,Kenya,Africa,Homo sapiens,Human
+11069.3912,Dengue virus 3 RFA440,Dengue virus,2020-07-14T00:00:00Z,MT076950,1550,2015-06,Kenya,Africa,Homo sapiens,Human
+11069.3913,Dengue virus 3 KFA302,Dengue virus,2020-07-14T00:00:00Z,MT076951,1588,2015-05,Kenya,Africa,Homo sapiens,Human
+11069.3914,Dengue virus 3 KFA339,Dengue virus,2020-07-14T00:00:00Z,MT076952,1490,2015-06,Kenya,Africa,Homo sapiens,Human
+11069.3915,Dengue virus 3 KFA340,Dengue virus,2020-07-14T00:00:00Z,MT076953,1564,2015-06,Kenya,Africa,Homo sapiens,Human
+11069.3916,Dengue virus 3 KFA341,Dengue virus,2020-07-14T00:00:00Z,MT076954,1567,2015-06,Kenya,Africa,Homo sapiens,Human
+11069.3985,Dengue virus 3 Togo_2009_09-998,Dengue virus,2016-12-14T00:00:00Z,KT187281,1479,2009,Togo,Africa,,
+11069.3988,Dengue virus 3 cape_verde_2008_08-040,Dengue virus,2016-12-14T00:00:00Z,KT187284,1479,2008,Cabo Verde,Africa,,
+11069.3989,Dengue virus 3 cape_verde_2009_09-022,Dengue virus,2016-12-14T00:00:00Z,KT187285,1479,2009,Cabo Verde,Africa,,
+11069.399,Dengue virus 3 Reunion_Island_2012_14448,Dengue virus,2016-12-14T00:00:00Z,KT187286,1479,2012,Reunion,Africa,,
+11069.3991,Dengue virus 3 Reunion_Island_2012_14449,Dengue virus,2016-12-14T00:00:00Z,KT187287,1479,2012,Reunion,Africa,,
+11069.3992,Dengue virus 3 Reunion_island_2012_14450,Dengue virus,2016-12-14T00:00:00Z,KT187288,1479,2012,Reunion,Africa,,
+11069.3993,Dengue virus 3 Comoros_2010-00373,Dengue virus,2016-12-14T00:00:00Z,KT187289,1479,2010,Comoros,Africa,,
+11069.3994,Dengue virus 3 Madagascar_2010-557,Dengue virus,2016-12-14T00:00:00Z,KT187290,1479,2010,Madagascar,Africa,,
+11069.3995,Dengue virus 3 Madagascar_2010-558,Dengue virus,2016-12-14T00:00:00Z,KT187291,1479,2010,Madagascar,Africa,,
+11069.3996,Dengue virus 3 Djibouti_2011_13126,Dengue virus,2016-12-14T00:00:00Z,KT187292,1479,2011,Djibouti,Africa,,
+11069.3997,Dengue virus 3 Djibouti_2011_13129,Dengue virus,2016-12-14T00:00:00Z,KT187293,1479,2011,Djibouti,Africa,,
+11069.3998,Dengue virus 3 Djibouti_2012_14091,Dengue virus,2016-12-14T00:00:00Z,KT187294,1479,2012,Djibouti,Africa,,
+11069.3999,Dengue virus 3 Djibouti_2012_14699,Dengue virus,2016-12-14T00:00:00Z,KT187295,1479,2012,Djibouti,Africa,,
+11069.4006,Dengue virus 3 IP008,Dengue virus,2020-04-05T00:00:00Z,MT261972,10611,2017-10-16,Burkina Faso,Africa,Homo sapiens,Human
+11069.4007,Dengue virus 3 IP171,Dengue virus,2020-04-05T00:00:00Z,MT261973,10092,2017-11-09,Burkina Faso,Africa,Homo sapiens,Human
+11069.4008,Dengue virus 3 IP179,Dengue virus,2020-04-05T00:00:00Z,MT261974,10103,2017-11-13,Burkina Faso,Africa,Homo sapiens,Human
+11069.4009,Dengue virus 3 IP194,Dengue virus,2020-04-05T00:00:00Z,MT261975,10676,2017-11-17,Burkina Faso,Africa,Homo sapiens,Human
+11069.401,Dengue virus 3 IP226,Dengue virus,2020-04-05T00:00:00Z,MT261976,10683,2017-10-04,Burkina Faso,Africa,Homo sapiens,Human
+11069.4011,Dengue virus 3 IP267,Dengue virus,2020-04-05T00:00:00Z,MT261977,10682,2017-10-12,Burkina Faso,Africa,Homo sapiens,Human
+11069.4012,Dengue virus 3 IP304,Dengue virus,2020-04-05T00:00:00Z,MT261978,10678,2017-10-27,Burkina Faso,Africa,Homo sapiens,Human
+11069.4013,Dengue virus 3 IP310,Dengue virus,2020-04-05T00:00:00Z,MT261979,10244,2017-11-02,Burkina Faso,Africa,Homo sapiens,Human
+11069.4183,Dengue virus 3 9A,Dengue virus,2020-10-31T00:00:00Z,MK045282,344,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11069.4185,Dengue virus 3 14B,Dengue virus,2020-10-31T00:00:00Z,MK045283,271,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11069.4188,Dengue virus 3 P11,Dengue virus,2020-10-31T00:00:00Z,MK045285,271,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11069.419,Dengue virus 3 P12,Dengue virus,2020-10-31T00:00:00Z,MK045286,630,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+11069.441,Dengue virus 3,Dengue virus,2009-05-05T00:00:00Z,FJ882575,10663,1985,Mozambique,Africa,Homo sapiens,Human
+11069.5148,Dengue virus 3 CNM213VI07,Dengue virus,2016-07-24T00:00:00Z,FJ502975,220,2007,Senegal,Africa,Homo sapiens,Human
+11069.5164,Dengue virus 3 CNM775VI06,Dengue virus,2016-07-24T00:00:00Z,FJ502943,220,2006,Cameroon,Africa,Homo sapiens,Human
+11069.526,Dengue virus 3 D3Mozambique85,Dengue virus,2016-07-26T00:00:00Z,AY665402,1923,,Mozambique,Africa,,
+11069.602,Dengue virus 3 D3/Hu/Tanzania/08/2010NIID,Dengue virus,2017-03-30T00:00:00Z,AB549332,1479,2010-02,Tanzania,Africa,,
+11069.6232,Dengue virus 3 KAJP3_DENV3_Kenya_Eastern.Africa_2011,Dengue virus,2021-11-18T00:00:00Z,MZ857204,10171,2011,Kenya,Africa,Homo sapiens,Human
+11069.6276,Dengue virus 3 Dengue_Douala_isolate_NB03,Dengue virus,2021-10-04T00:00:00Z,MW979762,1063,2020-09-14,Cameroon,Africa,Human,Human
+11069.6277,Dengue virus 3 Dengue_Douala_isolate_BN47,Dengue virus,2021-10-04T00:00:00Z,MW979764,2055,2020-09-11,Cameroon,Africa,Human,Human
+11069.6278,Dengue virus 3 Dengue_Douala_isolate_NB20,Dengue virus,2021-10-04T00:00:00Z,MW979763,2092,2020-07-27,Cameroon,Africa,Human,Human
+11069.6279,Dengue virus 3 Dengue_Douala_isolate_BP08,Dengue virus,2021-10-04T00:00:00Z,MW979761,1777,2020-07-27,Cameroon,Africa,Human,Human
+11069.628,Dengue virus 3 Dengue_Douala_isolate_NB78,Dengue virus,2021-10-04T00:00:00Z,MW979765,1615,2020-08-26,Cameroon,Africa,Human,Human
+11069.6288,Dengue virus 3 DENV3-5_S_162,Dengue virus,2022-01-04T00:00:00Z,OK605766,10707,1993,Somalia,Africa,Homo sapiens,Human
+11069.6327,Dengue virus 3 DENV-3/TAN/Mikumi/2020,Dengue virus,2021-11-01T00:00:00Z,MW133786,511,2020-01,Tanzania,Africa,Aedes aegypti,Yellow fever mosquito
+11069.6458,Dengue virus 3 Kenya/MTW-4167/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544494,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6459,Dengue virus 3 Kenya/MTW-361/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544495,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.646,Dengue virus 3 Kenya/MTW-34748/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544496,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6461,Dengue virus 3 Kenya/MTW-344/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544497,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6462,Dengue virus 3 Kenya/MTW-419/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544498,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6463,Dengue virus 3 Kenya/MTW-338/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544499,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6464,Dengue virus 3 Kenya/MTW-339/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544501,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6465,Dengue virus 3 Kenya/MTW-34985/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544500,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6466,Dengue virus 3 Kenya/MTW-362/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544503,1440,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6467,Dengue virus 3 Kenya/MTW-348/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544502,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6468,Dengue virus 3 Kenya/MTW-4157/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544504,1467,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6469,Dengue virus 3 Kenya/MTW-337/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544505,1437,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.647,Dengue virus 3 Kenya/MTW-364/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544506,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6471,Dengue virus 3 Kenya/MTW-3158/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544507,1479,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6472,Dengue virus 3 Kenya/MTW-355/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544585,10173,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6473,Dengue virus 3 Kenya/MTW-359/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544586,10173,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6474,Dengue virus 3 Kenya/MTW-4167/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544587,10173,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6475,Dengue virus 3 Kenya/MTW-341/2019,Dengue virus,2021-08-31T00:00:00Z,MZ544588,10173,2019-03,Kenya,Africa,Homo sapiens,Human
+11069.6572,Dengue virus 3 P78,Dengue virus,2022-06-30T00:00:00Z,ON377332,174,2021-07-07,Benin,Africa,Aedes aegypti,Yellow fever mosquito
+11069.6574,Dengue virus 3 19XN27399F_D3_ETH,Dengue virus,2022-07-05T00:00:00Z,ON890788,10656,2019-11-09,Ethiopia,Africa,Homo sapiens,Human
+11069.6582,Dengue virus 3 19XN27399,Dengue virus,2022-07-07T00:00:00Z,ON908232,10608,2019-11-09,Ethiopia,Africa,Homo sapiens,Human
+11069.6722,Dengue virus type 3 P78,Dengue virus,2022-11-18T00:00:00Z,OP365121,483,07-Jul-2021,Benin,Africa,Aedes aegypti,Yellow fever mosquito
+11069.6875,Dengue virus type 3 D3/TAN/37/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920035,1479,26-Jun-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6876,Dengue virus type 3 D3/TAN/06/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920037,1479,03-Oct-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6877,Dengue virus type 3 D3/TAN/36/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920036,1479,13-Jun-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6878,Dengue virus type 3 D3/TAN/10/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920039,1479,19-Oct-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6879,Dengue virus type 3 D3/TAN/15/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920038,1479,24-Nov-2017,Tanzania,Africa,Homo sapiens,Human
+11069.688,Dengue virus type 3 D3/TAN/09/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920040,1479,09-Sep-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6881,Dengue virus type 3 D3/TAN/06/PW/2017,Dengue virus,2023-04-19T00:00:00Z,OM920042,1479,03-Oct-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6882,Dengue virus type 3 D3/TAN/07/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920041,1479,18-Aug-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6883,Dengue virus type 3 D3/TAN/01/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920044,1479,25-Aug-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6884,Dengue virus type 3 D3/TAN/33/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920045,1479,01-Jun-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6885,Dengue virus type 3 D3/TAN/02/DAR/2017,Dengue virus,2023-04-19T00:00:00Z,OM920043,1479,25-Aug-2017,Tanzania,Africa,Homo sapiens,Human
+11069.6886,Dengue virus type 3 D3/TAN/27/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920046,1479,18-May-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6887,Dengue virus type 3 D3/TAN/23/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920047,1479,11-May-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6888,Dengue virus type 3 D3/TAN/21/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920048,1479,27-Apr-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6889,Dengue virus type 3 D3/TAN/19/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920050,1479,09-Apr-2018,Tanzania,Africa,Homo sapiens,Human
+11069.689,Dengue virus type 3 D3/TAN/20/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920049,1479,11-Apr-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6891,Dengue virus type 3 D3/TAN/17/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920052,1479,28-Mar-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6892,Dengue virus type 3 D3/TAN/18/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920051,1479,05-Apr-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6893,Dengue virus type 3 D3/TAN/16/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920053,1479,28-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6894,Dengue virus type 3 D3/TAN/14/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920054,1479,03-Mar-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6895,Dengue virus type 3 D3/TAN/12/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920055,1479,28-Mar-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6896,Dengue virus type 3 D3/TAN/11/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920056,1479,27-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6897,Dengue virus type 3 D3/TAN/09/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920058,1479,24-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6898,Dengue virus type 3 D3/TAN/08/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920059,1479,19-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6899,Dengue virus type 3 D3/TAN/10/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920057,1479,26-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.69,Dengue virus type 3 D3/TAN/07/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920060,1479,09-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6901,Dengue virus type 3 D3/TAN/06/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920061,1479,01-Feb-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6902,Dengue virus type 3 D3/TAN/05/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920062,1479,23-Jan-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6903,Dengue virus type 3 D3/TAN/04/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920063,1479,20-Jan-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6904,Dengue virus type 3 D3/TAN/03/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920064,1479,15-Jan-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6905,Dengue virus type 3 D3/TAN/02/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920065,1479,26-Jan-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6906,Dengue virus type 3 D3/TAN/01/DAR/2018,Dengue virus,2023-04-19T00:00:00Z,OM920066,1479,25-Jan-2018,Tanzania,Africa,Homo sapiens,Human
+11069.6907,Dengue virus type 3 402330_DEN3_Niger_2022,Dengue virus,2023-05-12T00:00:00Z,OQ132878,10568,18-Aug-2022,Niger,Africa,Homo sapiens,Human
+11070.104,Dengue virus 4,Dengue virus,2016-08-08T00:00:00Z,KU577448,223,2014,Cabo Verde,Africa,Aedes aegypti,Yellow fever mosquito
+11070.105,Dengue virus 4,Dengue virus,2016-08-08T00:00:00Z,KU577449,223,2014,Cabo Verde,Africa,Aedes aegypti,Yellow fever mosquito
+11070.1182,Dengue virus 4 Dakar_HD_34460,Dengue virus,2018-04-18T00:00:00Z,MF004387,10601,1981,Senegal,Africa,Homo sapiens,Lab host
+11070.1725,Dengue virus 4 KFA236,Dengue virus,2020-07-14T00:00:00Z,MT076955,10648,2015-02,Kenya,Africa,Homo sapiens,Human
+11070.1726,Dengue virus 4 KFA567,Dengue virus,2020-07-14T00:00:00Z,MT076956,755,2016-02,Kenya,Africa,Homo sapiens,Human
+11070.1727,Dengue virus 4 KFA574,Dengue virus,2020-07-14T00:00:00Z,MT076957,1295,2016-02,Kenya,Africa,Homo sapiens,Human
+11070.1728,Dengue virus 4 KFA578,Dengue virus,2020-07-14T00:00:00Z,MT076958,1306,2016-03,Kenya,Africa,Homo sapiens,Human
+11070.1729,Dengue virus 4 KFA762,Dengue virus,2020-07-14T00:00:00Z,MT076959,1287,2016-09,Kenya,Africa,Homo sapiens,Human
+11070.173,Dengue virus 4 MFA1034,Dengue virus,2020-07-14T00:00:00Z,MT076960,996,2015-12,Kenya,Africa,Homo sapiens,Human
+11070.1731,Dengue virus 4 MFA1046,Dengue virus,2020-07-14T00:00:00Z,MT076961,1275,2015-12,Kenya,Africa,Homo sapiens,Human
+11070.1732,Dengue virus 4 RFA538,Dengue virus,2020-07-14T00:00:00Z,MT076962,1287,2016-01,Kenya,Africa,Homo sapiens,Human
+11070.263,Dengue virus 4 Denv4_2014_Angola,Dengue virus,2014-10-30T00:00:00Z,AB908053,452,2014-01-14,Angola,Africa,Homo sapiens,Human
+11070.322,Dengue virus 4 DENV4-3_DAK_H_38550,Dengue virus,2022-01-04T00:00:00Z,OK605769,10651,1983,Senegal,Africa,Homo sapiens,Human
+11070.3312,Dengue virus 4 D10,Dengue virus,2020-12-12T00:00:00Z,MW332572,1037,2019-02-03,Nigeria,Africa,Homo sapiens,Human
+12637.1059,Dengue virus DENV2/Hu/Cote d'Ivoire/HMIMV/2017,Dengue virus,2018-10-21T00:00:00Z,MG727535,1485,,Morocco,Africa,Homo sapiens,Human
+12637.1231,Dengue virus CY 436 D1 606,Dengue virus,2016-07-26T00:00:00Z,EU073979,232,,Djibouti,Africa,,
+12637.1447,Dengue virus DENV-2/TAN/IFM/2013,Dengue virus,2016-12-31T00:00:00Z,KM892493,500,2013-06,Tanzania,Africa,Homo sapiens,Human
+12637.1448,Dengue virus DENV-2/TAN/Masaki/2014,Dengue virus,2016-12-31T00:00:00Z,KM892494,500,2014-02,Tanzania,Africa,Homo sapiens,Human
+12637.1449,Dengue virus DENV-2/TAN/Muhimbili/2014,Dengue virus,2016-12-31T00:00:00Z,KM892496,500,2014-02,Tanzania,Africa,Homo sapiens,Human
+12637.287,Dengue virus SD1,Dengue virus,2018-04-30T00:00:00Z,MF574722,502,,Sudan,Africa,Homo sapiens,Human
+12637.2871,Dengue virus SD2,Dengue virus,2018-04-30T00:00:00Z,MF574723,502,,Sudan,Africa,Homo sapiens,Human
+12637.2872,Dengue virus SD3,Dengue virus,2018-04-30T00:00:00Z,MF574724,502,,Sudan,Africa,Homo sapiens,Human
+12637.2873,Dengue virus SD4,Dengue virus,2018-04-30T00:00:00Z,MF574725,502,,Sudan,Africa,Homo sapiens,Human
+12637.3104,Dengue virus 2A,Dengue virus,2020-10-31T00:00:00Z,MK045280,346,2018-10-08,Nigeria,Africa,Homo sapiens,Human
+12637.3127,Dengue virus LT.93,Dengue virus,2019-08-31T00:00:00Z,MH802053,211,2017-04-13,Cameroon,Africa,Homo-sapiens,Human
+12637.3128,Dengue virus LT.88,Dengue virus,2019-08-31T00:00:00Z,MH802054,211,2017-04-12,Cameroon,Africa,Homo-sapiens,Human
+12637.3129,Dengue virus LT.75,Dengue virus,2019-08-31T00:00:00Z,MH802055,211,2017-04-11,Cameroon,Africa,Homo-sapiens,Human
+12637.313,Dengue virus LT.81,Dengue virus,2019-08-31T00:00:00Z,MH802056,211,2017-04-11,Cameroon,Africa,Homo-sapiens,Human
+12637.3131,Dengue virus LT.71,Dengue virus,2019-08-31T00:00:00Z,MH802057,209,2017-04-11,Cameroon,Africa,Homo-sapiens,Human
+12637.3484,Dengue virus 0790513,Dengue virus,2017-09-30T00:00:00Z,KX812500,288,2013-05,Kenya,Africa,Homo sapiens,Human
+12637.3485,Dengue virus 0770413,Dengue virus,2017-09-30T00:00:00Z,KX812501,243,2013-04,Kenya,Africa,Homo sapiens,Human
+12637.3486,Dengue virus 0711,Dengue virus,2017-09-30T00:00:00Z,KX812502,259,2011-07,Kenya,Africa,Homo sapiens,Human
+12637.3487,Dengue virus 0911,Dengue virus,2017-09-30T00:00:00Z,KX812503,231,2011-09,Kenya,Africa,Homo sapiens,Human
+12637.3488,Dengue virus 030713,Dengue virus,2017-09-30T00:00:00Z,KX812504,230,2013-07,Kenya,Africa,Homo sapiens,Human
+12637.3489,Dengue virus 2330513,Dengue virus,2017-09-30T00:00:00Z,KX812506,245,2013-05,Kenya,Africa,Homo sapiens,Human
+12637.349,Dengue virus 0280114,Dengue virus,2017-09-30T00:00:00Z,KX812505,231,2014-01,Kenya,Africa,Homo sapiens,Human
+12637.3491,Dengue virus 0220713,Dengue virus,2017-09-30T00:00:00Z,KX812507,512,2013-07,Kenya,Africa,Homo sapiens,Human
+12637.3492,Dengue virus 1290413,Dengue virus,2017-09-30T00:00:00Z,KX812508,513,2013-04,Kenya,Africa,Homo sapiens,Human
+12637.3493,Dengue virus 1320413,Dengue virus,2017-09-30T00:00:00Z,KX812509,513,2013-04,Kenya,Africa,Homo sapiens,Human
+12637.3494,Dengue virus 0040413,Dengue virus,2017-09-30T00:00:00Z,KX812510,512,2013-04,Kenya,Africa,Homo sapiens,Human
+12637.3496,Dengue virus 0320413,Dengue virus,2017-09-30T00:00:00Z,KX812511,513,2013-04,Kenya,Africa,Homo sapiens,Human
+12637.3773,Dengue virus Dakar HD 34460,Dengue virus,2014-11-20T00:00:00Z,KF907503,10648,1953,Senegal,Africa,Homo sapiens,Human
+12637.3779,Dengue virus Dak HD 34 460,Dengue virus,2016-07-26T00:00:00Z,EU073983,232,,Senegal,Africa,,
+12637.3781,Dengue virus DENV-2/TAN/IST/2014,Dengue virus,2016-12-31T00:00:00Z,KM892495,500,2014-02,Tanzania,Africa,Homo sapiens,Human
+12637.623,Dengue virus DENV-2/TAN/KCMC/2014,Dengue virus,2018-03-01T00:00:00Z,KU886233,500,2014-06,Tanzania,Africa,Homo sapiens,Human
+12637.727,Dengue virus,Dengue virus,2016-07-26T00:00:00Z,DQ016638,306,,Kenya,Africa,Homo sapiens,Human
+12637.733,Dengue virus,Dengue virus,2016-07-26T00:00:00Z,DQ016641,306,,Kenya,Africa,Homo sapiens,Human
+12637.737,Dengue virus,Dengue virus,2016-07-26T00:00:00Z,DQ016643,306,,Sudan,Africa,Homo sapiens,Human
